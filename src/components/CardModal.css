@@ -11,6 +11,7 @@
     z-index: 1000;
     box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
     border-radius: 17px;
+    backdrop-filter: blur(5px);
   }
   
   .modal-content {
@@ -134,7 +135,7 @@
 
   @media screen and (max-width: 720px) {
     .modal-content {
-      width: 90%; 
+      width: 80%; 
       margin: 0 auto; 
       height: auto;
       
@@ -144,9 +145,10 @@
       font-size: 14px; 
     }
   
-    td {
-      padding: 6px; 
-    }
+    td:not(.label) {
+      padding: 6px;
+      word-break: break-all;
+  }
   
     .label {
       width: auto; 
