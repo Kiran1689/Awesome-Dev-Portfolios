@@ -1,10 +1,10 @@
 {
   "username": "vishwasnavadak",
   "name": "Vishwasa Navada K",
-  "image": "https://github-production-user-asset-6210df.s3.amazonaws.com/13111030/291629578-a8d255a5-d5f9-4efd-afc4-f3db1402dabc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231219T152228Z&X-Amz-Expires=300&X-Amz-Signature=a6b7281aee582069c6fcb23465472274f070f8d7e932966005558b73dd33881f&X-Amz-SignedHeaders=host&actor_id=13111030&key_id=0&repo_id=731031630",
+  "image": "https://user-images.githubusercontent.com/13111030/291631562-fd5d3b04-f650-4bf1-aa1e-d5aab9899c77.png",
   "technologiesUsed": "AWS, Serverless, NodeJS, JavaScript",
   "livePortfolioLink": "https://vishwas.tech",
-  "githubRepoLink": "",
+  "githubRepoLink": "-",
   "email": "hi@vishwas.tech",
   "linkedin": "https://www.linkedin.com/in/vishwasnavadak/"
 }
