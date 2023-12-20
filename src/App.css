@@ -134,25 +134,13 @@ body {
   height: auto;
   color: #e5e5e8;
   background-color: #2f2f31;
-  transition: transform 0.3s ease-in-out;
+  
 }
 
 .card-item:hover {
-  transform: translateX(-2px); 
-  animation: shake 1s ease-in-out infinite; 
+  cursor: pointer;
 }
 
-@keyframes shake {
-  0%, 100% {
-    transform: translateX(0);
-  }
-  25%, 75% {
-    transform: translateX(-3px); 
-  }
-  50% {
-    transform: translateX(3px); 
-  }
-}
 
 h3 {
   color: #fff;
@@ -176,7 +164,6 @@ h3 {
   left: 0;
   width: 100%;
   height: 100%;
-  box-shadow: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
   opacity: 0;
   border-radius: 10px; 
   transition: opacity 0.3s ease-out; 
@@ -184,20 +171,28 @@ h3 {
 }
 
 .card-item:hover::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   opacity: 1;
-  animation: neon-travel 1s infinite linear;
+  border-radius: 10px;
+  transition: opacity 0.3s ease-out;
+  pointer-events: none;
+  animation: smoke 2s infinite linear; 
 }
 
-@keyframes neon-travel {
-  to {
-    box-shadow:
-      0 0 2px 0 #44ea76,
-      0 0 3px 1px #44ea76,
-      0 0 4px 2px #44ea76,
-      0 0 5px 3px #39fad7,
-      0 0 6px 4px #39fad7;
+@keyframes smoke {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4); 
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.7); 
   }
 }
+
 .card-name {
   font-weight: bold;
   font-size: 20px;
