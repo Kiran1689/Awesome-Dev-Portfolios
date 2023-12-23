@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -71,6 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://kiran1689.github.io"><img src="https://avatars.githubusercontent.com/u/75929997?v=4?s=100" width="100px;" alt="Kiran Naragund"/><br /><sub><b>Kiran Naragund</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Kiran1689" title="Code">💻</a> <a href="#design-Kiran1689" title="Design">🎨</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Kiran1689" title="Documentation">📖</a> <a href="#maintenance-Kiran1689" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://rohitk06.site"><img src="https://avatars.githubusercontent.com/u/66678395?v=4?s=100" width="100px;" alt="Rohit Kushwaha"/><br /><sub><b>Rohit Kushwaha</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=DevRohit06" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
