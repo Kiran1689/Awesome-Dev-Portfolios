@@ -4,10 +4,12 @@
 
 1. **Raise an [Issue](https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues/new?assignees=&labels=Portfolio+Addition&projects=&template=portfolio-addition.md&title=Add+%3Cyour-username%3E+Portfolio):**
    - Title: "Add `<your-username>`'s Portfolio" (e.g., "Add Kiran1689's Portfolio")
-   - Description: Attach your portfolio screenshot. The image resolution should be **1900x900** (width x height). Right-click on the image and select "Copy link address" (this link will be needed later).
-   - The image URL should look like this. Example
+   - Description: Attach your portfolio screenshot. The image resolution should be **1900x900** (width x height). Copy the image URL (this link will be needed later).
+   - The image URL should look like this.
      
-     `https://user-images.githubusercontent.com/75929997/290880051-f05b1701-15c6-42c5-a8d0-cf63ca0d671a.png `
+     `https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/75929997/0c32cd40-c299-4fc6-ad1d-5d1e59bfd7a4`
+   - Example :
+     ![Screenshot](https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/75929997/342423b3-bc78-41b6-b507-88b44eafbecd)
    - If you need to resize your image, you can use online tools like [Image Resizer](https://imageresizer.com/). Ensure your image dimensions are 1900x900.
   
 <br/>
@@ -43,7 +45,7 @@
        {
          "username": "Kiran1689",
          "name": "Kiran Naragund",
-         "image": "https://user-images.githubusercontent.com/75929997/290880051-f05b1701-15c6-42c5-a8d0-cf63ca0d671a.png",
+         "image": "https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/75929997/0c32cd40-c299-4fc6-ad1d-5d1e59bfd7a4",
          "technologiesUsed": "HTML/CSS, JavaScript, ReactJS, GrapghQL and  React-Reveal",
          "livePortfolioLink": "https://Kiran1689.github.io",
          "githubRepoLink": "https://github.com/Kiran1689/Kiran1689.github.io",
