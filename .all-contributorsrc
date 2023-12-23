@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Kiran1689",
+      "name": "Kiran Naragund",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75929997?v=4",
+      "profile": "https://kiran1689.github.io",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Awesome-Dev-Portfolios",
+  "projectOwner": "Kiran1689"
+}
