@@ -61,9 +61,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 
-<a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/graphs/contributors" align="left">
-  <img src="https://contrib.rocks/image?repo=Kiran1689/Awesome-Dev-Portfolios" /> 
-</a>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 ---
