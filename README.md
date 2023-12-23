@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -75,6 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://hariprasd.me"><img src="https://avatars.githubusercontent.com/u/75234157?v=4?s=100" width="100px;" alt="Hari Prasad"/><br /><sub><b>Hari Prasad</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=hariprasd" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://vishwas.tech"><img src="https://avatars.githubusercontent.com/u/13111030?v=4?s=100" width="100px;" alt="Vishwasa Navada K"/><br /><sub><b>Vishwasa Navada K</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vishwasnavadak" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://vikas-ukani.github.io/"><img src="https://avatars.githubusercontent.com/u/57585690?v=4?s=100" width="100px;" alt="Vikas Ukani"/><br /><sub><b>Vikas Ukani</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vikas-ukani" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mrepol742.github.io"><img src="https://avatars.githubusercontent.com/u/62317165?v=4?s=100" width="100px;" alt="Melvin Jones Repol"/><br /><sub><b>Melvin Jones Repol</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=mrepol742" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
