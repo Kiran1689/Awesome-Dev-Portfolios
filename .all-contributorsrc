@@ -63,6 +63,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Nix-code",
+      "name": "Nishant Banjade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44603953?v=4",
+      "profile": "http://www.nishantbanjade.com.np",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
