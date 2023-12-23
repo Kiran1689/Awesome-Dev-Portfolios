@@ -81,6 +81,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "a1603169",
+      "name": "Seunghun Bang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77614387?v=4",
+      "profile": "https://seunghun-website.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
