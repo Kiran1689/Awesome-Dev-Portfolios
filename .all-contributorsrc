@@ -18,6 +18,15 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "DevRohit06",
+      "name": "Rohit Kushwaha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66678395?v=4",
+      "profile": "http://rohitk06.site",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
