@@ -17,9 +17,6 @@
   <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits/main"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-orange.svg?style=flat" /></a>
   <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat" /></a>
-  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-  [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-  <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
 Have you built or do you want to build an awesome developer portfolio? You are in the right place. 
@@ -63,6 +60,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <a href="https://github.com/Kiran1689"><img src="https://avatars.githubusercontent.com/u/75929997?s=96&v=4" width="100px;" alt=""/><br /><sub align="center"><b>Kiran Naragund</b></sub></a>
 
 ## Contributors ✨
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
