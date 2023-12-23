@@ -1,7 +1,4 @@
 ![Awesome Dev Portfolios](https://iili.io/JAPpUqF.png)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 <p align="center">
@@ -20,6 +17,9 @@
   <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits/main"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-orange.svg?style=flat" /></a>
   <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat" /></a>
+  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+  [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+  <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
 Have you built or do you want to build an awesome developer portfolio? You are in the right place. 
