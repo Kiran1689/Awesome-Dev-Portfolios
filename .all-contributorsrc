@@ -99,6 +99,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sirLisko",
+      "name": "Luca Lischetti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/435399?v=4",
+      "profile": "https://github.com/sirLisko",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
