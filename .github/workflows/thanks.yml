@@ -31,7 +31,7 @@ jobs:
             
             await github.issues.createComment({
               issue_number: issueNumber,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
+              owner: payload.repository.owner.login,
+              repo: payload.repository.name,
               body: commentBody
             });
