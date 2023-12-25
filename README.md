@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -83,6 +83,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://seunghun-website.vercel.app/"><img src="https://avatars.githubusercontent.com/u/77614387?v=4?s=100" width="100px;" alt="Seunghun Bang"/><br /><sub><b>Seunghun Bang</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=a1603169" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://furki.vercel.app/"><img src="https://avatars.githubusercontent.com/u/84590614?v=4?s=100" width="100px;" alt="Furkan "/><br /><sub><b>Furkan </b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=4Furki4" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sirLisko"><img src="https://avatars.githubusercontent.com/u/435399?v=4?s=100" width="100px;" alt="Luca Lischetti"/><br /><sub><b>Luca Lischetti</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=sirLisko" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.jimraptis.com"><img src="https://avatars.githubusercontent.com/u/24657754?v=4?s=100" width="100px;" alt="Jim Raptis"/><br /><sub><b>Jim Raptis</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dimitrisraptis96" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://yashitanamdeo.github.io"><img src="https://avatars.githubusercontent.com/u/49322948?v=4?s=100" width="100px;" alt="Yashita Namdeo"/><br /><sub><b>Yashita Namdeo</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=yashitanamdeo" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
