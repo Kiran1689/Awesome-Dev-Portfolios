@@ -126,6 +126,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "iamswapnil22",
+      "name": "Swapnil Shivpuje",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95163993?v=4",
+      "profile": "https://swappy-web.netlify.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
