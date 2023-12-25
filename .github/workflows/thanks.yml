@@ -1,0 +1,16 @@
+name: Greeting
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "<h1>It's great having you contribute to this Project 🤩</h1> 🧐Please Note: If this issue is for adding your portfolio, Make sure that your image resolution is <b>1900x900</b>.<br/>If you would like to keep contributing to open-source, you can check out the other projects by <b>Kiran Naragund</b> <a href='https://github.com/Kiran1689?tab=repositories'>here</a><br/><h4>Admin</h4> <a href='https://github.com/Kiran1689'> <img src='https://avatars.githubusercontent.com/u/75929997?s=96&v=4' width='100px;' alt='Kiran'/><br /> <sub><b>Kiran Naragund</b></sub></a>"
+        pr-message: "<h1>🚀 Awesome Pull Request! 🎉</h1> 👏 Thank you for your contribution! <br/> 🔍 I'll carefully review your pull request and provide feedback soon. <br/> Don't forget to leave a <b>STAR</b> ⭐️. <br/><h4>Admin</h4> <a href='https://github.com/Kiran1689'> <img src='https://avatars.githubusercontent.com/u/75929997?s=96&v=4' width='100px;' alt='Kiran'/><br /> <sub><b>Kiran Naragund</b></sub></a>"
