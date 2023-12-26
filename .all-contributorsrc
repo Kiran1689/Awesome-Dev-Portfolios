@@ -171,6 +171,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "tiagocreator",
+      "name": "Tiago Leite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82607849?v=4",
+      "profile": "https://www.tiagocreator.com/",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
