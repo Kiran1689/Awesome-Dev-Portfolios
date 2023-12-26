@@ -153,6 +153,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "dinogomez",
+      "name": "Paul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41871666?v=4",
+      "profile": "https://dinogomez.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
