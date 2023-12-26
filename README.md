@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -89,6 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/elmonickcool"><img src="https://avatars.githubusercontent.com/u/41835231?v=4?s=100" width="100px;" alt="Elmo Nickol"/><br /><sub><b>Elmo Nickol</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=elmonickcool" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vidu.sh/an"><img src="https://avatars.githubusercontent.com/u/25385500?v=4?s=100" width="100px;" alt="Vidushan CHOORIYAKUMARAN"/><br /><sub><b>Vidushan CHOORIYAKUMARAN</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vidjul" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
