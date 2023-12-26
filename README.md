@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -91,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/elmonickcool"><img src="https://avatars.githubusercontent.com/u/41835231?v=4?s=100" width="100px;" alt="Elmo Nickol"/><br /><sub><b>Elmo Nickol</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=elmonickcool" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://vidu.sh/an"><img src="https://avatars.githubusercontent.com/u/25385500?v=4?s=100" width="100px;" alt="Vidushan CHOORIYAKUMARAN"/><br /><sub><b>Vidushan CHOORIYAKUMARAN</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vidjul" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://dinogomez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/41871666?v=4?s=100" width="100px;" alt="Paul"/><br /><sub><b>Paul</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dinogomez" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://preetsuthar.me"><img src="https://avatars.githubusercontent.com/u/75468116?v=4?s=100" width="100px;" alt="Preet Suthar"/><br /><sub><b>Preet Suthar</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=preetsuthar17" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
