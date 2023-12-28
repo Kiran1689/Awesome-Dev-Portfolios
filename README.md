@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -93,6 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://dinogomez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/41871666?v=4?s=100" width="100px;" alt="Paul"/><br /><sub><b>Paul</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dinogomez" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://preetsuthar.me"><img src="https://avatars.githubusercontent.com/u/75468116?v=4?s=100" width="100px;" alt="Preet Suthar"/><br /><sub><b>Preet Suthar</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=preetsuthar17" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.tiagocreator.com/"><img src="https://avatars.githubusercontent.com/u/82607849?v=4?s=100" width="100px;" alt="Tiago Leite"/><br /><sub><b>Tiago Leite</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=tiagocreator" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://lakshanrukantha.github.io"><img src="https://avatars.githubusercontent.com/u/64830641?v=4?s=100" width="100px;" alt="Lakshan Rukantha"/><br /><sub><b>Lakshan Rukantha</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LakshanRukantha" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
