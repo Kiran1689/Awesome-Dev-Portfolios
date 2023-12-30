@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -95,6 +95,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://www.tiagocreator.com/"><img src="https://avatars.githubusercontent.com/u/82607849?v=4?s=100" width="100px;" alt="Tiago Leite"/><br /><sub><b>Tiago Leite</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=tiagocreator" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://lakshanrukantha.github.io"><img src="https://avatars.githubusercontent.com/u/64830641?v=4?s=100" width="100px;" alt="Lakshan Rukantha"/><br /><sub><b>Lakshan Rukantha</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LakshanRukantha" title="Code">💻</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LakshanRukantha" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://khaled.is-a.dev"><img src="https://avatars.githubusercontent.com/u/74397286?v=4?s=100" width="100px;" alt="Khaled"/><br /><sub><b>Khaled</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=khaled-0" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://genesisgabiola.tech/"><img src="https://avatars.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt="Genesis Gabiola"/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=gbgabiola" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
