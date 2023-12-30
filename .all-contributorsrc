@@ -180,6 +180,25 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "LakshanRukantha",
+      "name": "Lakshan Rukantha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64830641?v=4",
+      "profile": "https://lakshanrukantha.github.io",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "khaled-0",
+      "name": "Khaled",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74397286?v=4",
+      "profile": "https://khaled.is-a.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
