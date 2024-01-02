@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -98,6 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://genesisgabiola.tech/"><img src="https://avatars.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt="Genesis Gabiola"/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=gbgabiola" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ajaykannan.netlify.app/"><img src="https://avatars.githubusercontent.com/u/78952955?v=4?s=100" width="100px;" alt="S. Ajay Kannan"/><br /><sub><b>S. Ajay Kannan</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Ajay-Kannan7" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
