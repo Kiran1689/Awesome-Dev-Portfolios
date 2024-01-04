@@ -6,6 +6,7 @@ import CardList from './components/CardList';
 import CardModal from './components/CardModal'; 
 import Footer from './components/Footer';
 import ScrollToTopButton from './components/ScrollToTopButton';
+import SignUp from './components/SignUp'
 
 const App = () => {
   const [cards, setCards] = useState([]);
@@ -55,6 +56,7 @@ const App = () => {
 
   return (
     <div className="app">
+      <SignUp />
       <Navbar
         searchTerm={searchTerm}
         handleSearchChange={(event) => setSearchTerm(event.target.value)}

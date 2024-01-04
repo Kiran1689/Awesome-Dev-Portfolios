@@ -1,7 +1,7 @@
 /* App.css */
 body {
   font-family: 'Google Sans', sans-serif;
-  background-color: #19191c;
+  background-color: #0a0a0a;
   
 }
 .app {
@@ -13,7 +13,7 @@ body {
 .navbar {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 2px solid #484848;
   font-family: 'Google Sans', sans-serif;
   margin-bottom: 30px;
   backdrop-filter: blur(10px); 
@@ -24,6 +24,7 @@ body {
 .logo-container {
   display: flex;
   align-items: center;
+  padding-left: 40px;
 }
 
 .logo {
@@ -44,7 +45,7 @@ body {
   padding: 5px;
   margin-right: 10px;
   font-family: 'Google Sans', sans-serif;
-  background-color: #2f2f31;
+  background-color: #484848;
   color: #ffffff;
   border-radius: 10px;
 }
@@ -53,9 +54,8 @@ body {
   color: #e5e5e8;
 }
 
-.search-filter button {
+.search-filter  {
   padding: 5px 10px;
-  background-color: #2f2f31;
   cursor: pointer;
   font-family: 'Google Sans', sans-serif;
   color: #e5e5e8;
@@ -63,50 +63,29 @@ body {
 }
 
 .Btn {
-  width: 140px;
-  height: 30px;
-  border: none;
-  border-radius: 10px;
-  background: linear-gradient(to right,#77530a,#ffd277,#77530a,#77530a,#ffd277,#77530a);
-  background-size: 250%;
-  background-position: left;
-  color: #ffd277;
-  position: relative;
   display: flex;
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+  padding: 0.3rem 1rem;
+  font-size: 0.7rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  vertical-align: middle;
   align-items: center;
-  justify-content: center;
+  border-radius: 0.5rem;
+  gap: 0.75rem;
+  border-color: #484848;
   cursor: pointer;
-  transition-duration: 1s;
-  overflow: hidden;
+  transition: .6s ease;
 }
 
-.Btn::before {
-  position: absolute;
-  content: "STAR ON GITHUB";
-  color: #ffd277;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 97%;
-  height: 90%;
-  border-radius: 8px;
-  transition-duration: 1s;
-  background-color: rgba(0, 0, 0, 0.842);
-  background-size: 200%;
+.Btn svg {
+  height: 20px;
 }
 
 .Btn:hover {
-  background-position: right;
-  transition-duration: 1s;
-}
-
-.Btn:hover::before {
-  background-position: right;
-  transition-duration: 1s;
-}
-
-.Btn:active {
-  transform: scale(0.95);
+  box-shadow: none;
 }
 
 /* Cards styling */
@@ -114,6 +93,8 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .card-item {
@@ -326,6 +307,7 @@ h3 {
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-around;
+    padding: 0;
   }
   .card-item {
     width: 100%; 
