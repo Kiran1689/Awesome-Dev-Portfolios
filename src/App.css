@@ -280,8 +280,8 @@ h3 {
   }
 
   .logo-container {
-    width: 70%; 
-    margin-bottom: 0; 
+    margin:auto;
+    padding: 0;
     height: 25px;
   }
   .search-filter {
