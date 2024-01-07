@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Admin/Maintainer🕵  
 
-<a href="https://github.com/Kiran1689"><img src="https://avatars.githubusercontent.com/u/75929997?s=96&v=4" width="100px;" alt=""/><br /><sub align="center"><b>Kiran Naragund</b></sub></a>
+<a href="https://github.com/Kiran1689"><img src="https://avatars.githubusercontent.com/u/75929997?v=4" width="100px;" alt=""/><br /><sub align="center"><b>Kiran Naragund</b></sub></a>
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
