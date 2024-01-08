@@ -8,9 +8,6 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Icons } from "@/components/ui/icons";
 
-console.log('SUPABASE_URL from env:', import.meta.env.VITE_REACT_APP_SUPABASE_URL);
-console.log('SUPABASE_API_KEY from env:', import.meta.env.VITE_REACT_APP_SUPABASE_API_KEY);
-
 const supabase = createClient(import.meta.env.VITE_REACT_APP_SUPABASE_URL, import.meta.env.VITE_REACT_APP_SUPABASE_API_KEY);
 
 // eslint-disable-next-line react/prop-types
