@@ -217,6 +217,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "paalss",
+      "name": "Pål Syvertsen Stakvik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39744024?v=4",
+      "profile": "https://paalss.vercel.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "adityamedhe",
+      "name": "Aditya Medhe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9315396?v=4",
+      "profile": "http://aditya.medhe.in",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fppcnc",
+      "name": "Fil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127858984?v=4",
+      "profile": "https://concatofilippo.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
