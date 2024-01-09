@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi%F0%9F%91%8B+Welcome+to+Awesome+Dev+Portfolios!&font=Teko&size=40&center=true&width=550&height=70"/></a>
+
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat" /></a>
 </p>
 
-Have you built or do you want to build an awesome developer portfolio? You are in the right place. 
+Have you built or do you want to build an awesome developer portfolio? You are in the right place.👍
 This repository aims to collect portfolios and their repositories from developers around the world.
 
 ## How this will Help?🤷‍♂️
@@ -47,7 +48,7 @@ If you face any issues or bugs while using this project, please feel free to cre
 ### 3. Feature Requests:💡
 If you have a feature in mind that you think would enhance this project, Please submit your ideas in the [Issue](https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues/new/choose) section,
 
-## Support💜
+## Support🤝
 
 Don't forget to leave a star ⭐️.
 
