@@ -19,7 +19,7 @@
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat" /></a>
 </p>
 
-Have you built or do you want to build an awesome developer portfolio? You are in the right place. 
+Have you built or do you want to build an awesome developer portfolio? You are in the right place.👍
 This repository aims to collect portfolios and their repositories from developers around the world.
 
 ## How this will Help?🤷‍♂️
