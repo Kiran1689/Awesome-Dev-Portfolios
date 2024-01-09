@@ -47,7 +47,7 @@ If you face any issues or bugs while using this project, please feel free to cre
 ### 3. Feature Requests:💡
 If you have a feature in mind that you think would enhance this project, Please submit your ideas in the [Issue](https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues/new/choose) section,
 
-## Support💜
+## Support🤝
 
 Don't forget to leave a star ⭐️.
 
