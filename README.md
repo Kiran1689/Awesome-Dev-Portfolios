@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi%F0%9F%91%8B+Welcome+to+Awesome+Dev+Portfolios!&font=Teko&size=40&center=true&width=550&height=70"/></a>
+
 </p>
 
 <p align="center">
