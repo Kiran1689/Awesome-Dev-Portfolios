@@ -35,7 +35,7 @@ Checkout the live deployment of Awesome Dev Portfolios at [https://awesome-dev-p
 Feel free to browse through the showcased portfolios for inspiration.
 
 
-## How to contribute or Add your Portfolio?😎
+## How to contribute or Add your Portfolio?👨‍💻
 All contributions are welcome. Every contribution counts.
 
 ### 1. Adding Your Portfolio:💻
