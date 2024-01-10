@@ -49,7 +49,7 @@ If you have a feature in mind that you think would enhance this project, Please 
 
 ## Support💜
 
-Don't forget to leave a star ⭐️.
+Don't forget to leave a star.
 
 ## License📝
 
