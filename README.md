@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -102,6 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://paalss.vercel.app/"><img src="https://avatars.githubusercontent.com/u/39744024?v=4?s=100" width="100px;" alt="Pål Syvertsen Stakvik"/><br /><sub><b>Pål Syvertsen Stakvik</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=paalss" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://aditya.medhe.in"><img src="https://avatars.githubusercontent.com/u/9315396?v=4?s=100" width="100px;" alt="Aditya Medhe"/><br /><sub><b>Aditya Medhe</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=adityamedhe" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://concatofilippo.com/"><img src="https://avatars.githubusercontent.com/u/127858984?v=4?s=100" width="100px;" alt="Fil"/><br /><sub><b>Fil</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=fppcnc" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yared.vercel.app"><img src="https://avatars.githubusercontent.com/u/55293585?v=4?s=100" width="100px;" alt="Yared Tekile"/><br /><sub><b>Yared Tekile</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yared29" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
