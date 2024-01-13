@@ -16,14 +16,14 @@ const Navbar = ({ searchTerm, handleSearchChange }) => {
     <nav className="navbar">
       <div className="logo-container">
         {/* <img src="logo.png" alt="Logo" className="logo" /> */}
-        <div class="button">
-          <div class="box">A</div>
-          <div class="box">W</div>
-          <div class="box">E</div>
-          <div class="box">S</div>
-          <div class="box">O</div>
-          <div class="box">M</div>
-          <div class="box">E</div>
+        <div className="button">
+          <div className="box">A</div>
+          <div className="box">W</div>
+          <div className="box">E</div>
+          <div className="box">S</div>
+          <div className="box">O</div>
+          <div className="box">M</div>
+          <div className="box">E</div>
         </div>
       </div>
       <div className="search-filter">
