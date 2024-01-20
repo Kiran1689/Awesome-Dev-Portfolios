@@ -7,16 +7,17 @@ const Navbar = ({ searchTerm, handleSearchChange }) => {
     const githubRepoUrl = 'https://github.com/Kiran1689/Awesome-Dev-Portfolios';
     window.open(githubRepoUrl, '_blank');
   };
-
-  const navigateToSignUp = () => {
-    const signUpUrl = '/signup';
-    window.open(signUpUrl, '_blank');
+  
+  const navigateToHome = () => {
+    const HomeUrl = '/';
+    window.open(HomeUrl, '_self');
   };
+  
   return (
     <nav className="navbar">
       <div className="logo-container">
         {/* <img src="logo.png" alt="Logo" className="logo" /> */}
-        <div className="button">
+        <div className="button" onClick={navigateToHome}>
           <div className="box">A</div>
           <div className="box">W</div>
           <div className="box">E</div>
@@ -33,10 +34,11 @@ const Navbar = ({ searchTerm, handleSearchChange }) => {
           onChange={handleSearchChange}
           placeholder="Search by Name"
         />
+        {/*
         <button className='signup' onClick={navigateToSignUp}>
           <span>sign UP</span>
         </button>
-
+        */}
         <button className="Btn" 
         onClick={navigateToGitHub} >
         <span className="svgContainer">
