@@ -36,7 +36,7 @@ function SignUp() {
           <div className="lg:p-3">
             <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[350px]">
               <h1 className="text-2xl font-semibold tracking-tight text-center">
-                Have an account? Log in now
+                Have an account? Log in Now
               </h1>
               <UserAuthLoginForm />
             </div>
