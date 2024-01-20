@@ -8,6 +8,7 @@ import CardModal from './components/CardModal';
 import Footer from './components/Footer';
 import ScrollToTopButton from './components/ScrollToTopButton';
 import SignUp from './components/SignUp'
+import Home from './Home';
 
 const App = () => {
   const [cards, setCards] = useState([]);
@@ -60,8 +61,9 @@ const App = () => {
       <div className="app">
         <Routes>
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/" element={<Home />} />
           <Route
-            path="/"
+            path="/portfolios"
             element={
               <>
                 <Navbar

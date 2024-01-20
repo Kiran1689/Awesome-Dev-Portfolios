@@ -298,7 +298,7 @@ h3 {
   padding: 1px;
   backdrop-filter: blur(10px);
   color: #fff;
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
   border-top: 1px solid #ccc;
