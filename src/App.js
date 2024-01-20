@@ -1,11 +1,14 @@
 
 import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
 import CardList from './components/CardList';
 import CardModal from './components/CardModal'; 
 import Footer from './components/Footer';
 import ScrollToTopButton from './components/ScrollToTopButton';
+import SignUp from './components/SignUp'
+import Home from './Home';
 
 const App = () => {
   const [cards, setCards] = useState([]);
@@ -54,16 +57,29 @@ const App = () => {
   
 
   return (
-    <div className="app">
-      <Navbar
-        searchTerm={searchTerm}
-        handleSearchChange={(event) => setSearchTerm(event.target.value)}
-      />
-      <CardList cards={filteredCards} onCardClick={(card) => handleCardClick(card)} />
-      <CardModal card={selectedCard} onClose={handleCloseModal} />
-      <ScrollToTopButton />
-      <Footer />
-    </div>
+    <Router>
+      <div className="app">
+        <Routes>
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="/" element={<Home />} />
+          <Route
+            path="/portfolios"
+            element={
+              <>
+                <Navbar
+                  searchTerm={searchTerm}
+                  handleSearchChange={(event) => setSearchTerm(event.target.value)}
+                />
+                <CardList cards={filteredCards} onCardClick={(card) => handleCardClick(card)} />
+                <CardModal card={selectedCard} onClose={handleCloseModal} />
+                <ScrollToTopButton />
+                <Footer />
+              </>
+            }
+          />
+        </Routes>
+      </div>
+    </Router>
   );
 };
 
