@@ -1,7 +1,4 @@
-// src/App.js
 import React from 'react';
-//import ReactPlayer from 'react-player';
-//import { Link } from 'react-router-dom';
 import { SiX, SiGithub, SiLinkedin, SiInstagram, SiGmail } from "react-icons/si"
 
 
