@@ -143,7 +143,7 @@ function Home() {
                 </div>
 
                 <div className="flex items-center justify-end space-x-5">
-                  {/* Button show nav bar */}
+                  {/* Button for show nav bar */}
                     <button onClick={handleShowNavbar} type="button" className="p-2 -m-2 text-white transition-all duration-200 lg:hidden hover:text-gray-200">
                         {!showNavbar ? 
                           <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
