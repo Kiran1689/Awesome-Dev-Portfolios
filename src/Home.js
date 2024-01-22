@@ -1,14 +1,14 @@
 // src/App.js
-import React from 'react';
+import React, { useState } from 'react';
 //import ReactPlayer from 'react-player';
 //import { Link } from 'react-router-dom';
 import { SiX, SiGithub, SiLinkedin, SiInstagram, SiGmail } from "react-icons/si"
 
 
-
 function Home() {
     const getCurrentYear = () => new Date().getFullYear()
 
+const [showNavbar, setShowNavbar] = useState(false)
   const footerLinks = [
     {
       name: "Twitter",
@@ -107,6 +107,13 @@ function Home() {
       ]
     }
   ]
+
+
+  function handleShowNavbar(){
+    setShowNavbar(!showNavbar)
+  }
+
+
   return (
     <section>
     {/* Navbar */}
@@ -119,7 +126,10 @@ function Home() {
                     </a>
                 </div>
 
-                <div className="hidden lg:flex lg:justify-center lg:space-x-10 xl:space-x-14">
+                <div className={`absolute border border-zinc-600 border-t-0 h-12   top-0  right-0 flex items-center  justify-around md:justify-center md:gap-8 px-10 w-full bg-zinc-950/90 backdrop-blur-sm ${showNavbar ? "translate-y-16 z-10 opacity-1 " : "translate-y-0 -z-10 opacity-0 "} transition-all ease-in-out
+
+                lg:relative lg:border-none lg:h-min lg:translate-y-0 lg:z-0 lg:px-10 lg:w-min lg:bg-transparent lg:backdrop-blur-0 lg:gap-0
+                lg:flex lg:justify-center lg:space-x-10 xl:space-x-14 `}>
                     <a href="/" title="" className="text-base font-medium text-gray-300  focus:text-white hover:text-white"> Home </a>
 
                     <a href="/portfolios" title="" className="text-base font-medium text-gray-300  focus:text-white hover:text-white"> Portfolios </a>
@@ -130,11 +140,19 @@ function Home() {
                 </div>
 
                 <div className="flex items-center justify-end space-x-5">
-                    <button type="button" className="p-2 -m-2 text-white transition-all duration-200 lg:hidden hover:text-gray-200">
-                        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  {/* Button show nav bar */}
+                    <button onClick={handleShowNavbar} type="button" className="p-2 -m-2 text-white transition-all duration-200 lg:hidden hover:text-gray-200">
+                        {!showNavbar ? 
+                          <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
+                          </svg>
+                        :  
+                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                            <path d="M18 6 6 18"/><path d="m6 6 12 12"/>
+                          </svg>
+                        }
                     </button>
+                    
 
                     <div class="group relative">
                       <a
