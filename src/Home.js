@@ -8,7 +8,9 @@ import { SiX, SiGithub, SiLinkedin, SiInstagram, SiGmail } from "react-icons/si"
 function Home() {
     const getCurrentYear = () => new Date().getFullYear()
 
-const [showNavbar, setShowNavbar] = useState(false)
+    const [showNavbar, setShowNavbar] = useState(false)
+
+
   const footerLinks = [
     {
       name: "Twitter",
@@ -126,9 +128,10 @@ const [showNavbar, setShowNavbar] = useState(false)
                     </a>
                 </div>
 
-                <div className={`absolute border border-zinc-600 border-t-0 h-12   top-0  right-0 flex items-center  justify-around md:justify-center md:gap-8 px-10 w-full bg-zinc-950/90 backdrop-blur-sm ${showNavbar ? "translate-y-16 z-10 opacity-1 " : "translate-y-0 -z-10 opacity-0 "} transition-all ease-in-out
+                <div className={`absolute opacity-1  border border-zinc-600 border-t-0 h-12   top-0  right-0 flex items-center  justify-around md:justify-center md:gap-8 px-10 w-full bg-zinc-950/90 backdrop-blur-sm ${showNavbar ? "translate-y-16 z-10 opacity-1 " : "translate-y-0 -z-10 opacity-0 lg:opacity-100"}
+                 transition-all md:transition-none  ease-in-out
 
-                lg:relative lg:border-none lg:h-min lg:translate-y-0 lg:z-0 lg:px-10 lg:w-min lg:bg-transparent lg:backdrop-blur-0 lg:gap-0
+                  lg:relative lg:border-none lg:h-min lg:translate-y-0 lg:z-0 lg:px-10 lg:w-min lg:bg-transparent lg:backdrop-blur-0 lg:gap-0
                 lg:flex lg:justify-center lg:space-x-10 xl:space-x-14 `}>
                     <a href="/" title="" className="text-base font-medium text-gray-300  focus:text-white hover:text-white"> Home </a>
 
