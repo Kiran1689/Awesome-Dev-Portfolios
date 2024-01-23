@@ -107,7 +107,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://maheshbabu11.dev/"><img src="https://avatars.githubusercontent.com/u/43287976?v=4?s=100" width="100px;" alt="Mahesh Babu"/><br /><sub><b>Mahesh Babu</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=MaheshBabu11" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://himanshuchandola.fyi"><img src="https://avatars.githubusercontent.com/u/96554303?v=4?s=100" width="100px;" alt="Himanshu Chandola"/><br /><sub><b>Himanshu Chandola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=himanshuchandola" title="Code">💻</a></td>
+
+      <td align="center" valign="top" width="14.28%"><a href="http://himanshuchandola.fyi"><img src="https://avatars.githubusercontent.com/u/96554303?v=4?s=100" width="100px;" alt="Himanshu Chandola"/><br /><sub><b>Himanshu Chandola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=himanshuchandola" title="Code">💻</a> <a href="#bug-himanshuchandola" title="Bug reports">🐛</a></td>
+
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisJimenez19"><img src="https://avatars.githubusercontent.com/u/102745510?v=4?s=100" width="100px;" alt="Luis Jimenez"/><br /><sub><b>Luis Jimenez</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LuisJimenez19" title="Code">💻</a> <a href="#design-LuisJimenez19" title="Design">🎨</a></td>
     </tr>
   </tbody>
