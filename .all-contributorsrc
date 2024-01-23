@@ -280,6 +280,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "LuisJimenez19",
+      "name": "Luis Jimenez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102745510?v=4",
+      "profile": "https://github.com/LuisJimenez19",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
