@@ -36,7 +36,9 @@
        "livePortfolioLink": "YourLivePortfolioLink",
        "githubRepoLink": "YourGitHubRepoLink",
        "email": "YourEmailAddress",
-       "linkedin": "YourLinkedInProfileLink"
+       "linkedin": "YourLinkedInProfileLink",
+       "instagram": "YourInstagramProfileLink",
+       "x": "YourTwitterProfileLink"
      }
      ```
 
@@ -46,13 +48,16 @@
          "username": "Kiran1689",
          "name": "Kiran Naragund",
          "image": "https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/75929997/0c32cd40-c299-4fc6-ad1d-5d1e59bfd7a4",
-         "technologiesUsed": "HTML/CSS, JavaScript, ReactJS, GrapghQL and  React-Reveal",
+         "technologiesUsed": "HTML/CSS, JavaScript, ReactJS, GrapghQL, React-Reveal",
          "livePortfolioLink": "https://Kiran1689.github.io",
          "githubRepoLink": "https://github.com/Kiran1689/Kiran1689.github.io",
          "email": "kirannaragund197@gmail.com",
          "linkedin": "https://www.linkedin.com/in/kiran-a-n"
+         "instagram": "https://www.instagram.com/kiran_a_n",
+         "x": "https://twitter.com/kiran__a__n"
        }
      ```
+     - If you don't have any one of these or don't want to add, please put "-" in the value.
 
 <br/>
      
