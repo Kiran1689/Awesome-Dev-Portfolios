@@ -200,24 +200,24 @@ body {
 
 
 /* Cards styling */
-.card-list {
+/* .card-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   padding-left: 40px;
   padding-right: 40px;
-}
+} */
 
 .card-item {
-  position: relative;
+  /* position: relative;
   flex-basis: 100%;
   backdrop-filter: blur(10px);
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  /*padding: 15px;*/
+  padding: 15px;
   margin-bottom: 15px;
   margin-left: 20px;
-  margin-right: 20px;
+  margin-right: 20px; */
   animation-name: fade-in;
   animation-duration: 1s;
   animation-timing-function: ease-in-out;
@@ -226,13 +226,13 @@ body {
   height: auto;
   color: #e5e5e8;
   background-color: #000000;
-  border: 2px solid rgba(255, 255, 255, 0.25);;
+  /* border: 2px solid rgba(255, 255, 255, 0.25);; */
   
 }
 
-.card-item:hover {
+/* .card-item:hover {
   cursor: pointer;
-}
+} */
 
 
 h3 {
@@ -252,20 +252,20 @@ h3 {
 
 
 .card-name {
-  font-weight: bold;
+  /* font-weight: bold;
   font-size: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 5px; */
   font-family: 'Google Sans', sans-serif;
-  text-align: center;
+  /* text-align: center; */
 }
 
 
-.card-type-icon {
+/* .card-type-icon {
   width: 100%;
   height: auto;
   object-fit: contain;
   margin-bottom: 10px;
-}
+} */
 
 /* Logo button */
 
