@@ -291,6 +291,15 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "fezeboris",
+      "name": "fezeboris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79030060?v=4",
+      "profile": "https://github.com/fezeboris",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
