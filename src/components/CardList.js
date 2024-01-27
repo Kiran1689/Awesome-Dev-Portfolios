@@ -1,11 +1,40 @@
-import React from 'react';
+import React, { useState } from 'react';
 
-const CardList = ({ cards, onCardClick  }) => (
-  <div className="card-list">
+const CardList = ({ cards, onCardClick  }) =>{
+
+  const [loaddedImages, setLoadedImages] = useState([]);
+
+  const handleCardClick = (image) => {
+    setLoadedImages(pv => [...pv, image])
+  }
+
+  return (
+  <div className="card-item grid grid-cols-1 sm:w-full md:grid-cols-2 lg:grid-cols-3 gap-8 px-4 lg:mx-12 mb-4 ">
     {cards.map((card) => (
-      <div className="card-item" onClick={() => onCardClick(card)}>
-        <img className="card-type-icon" src={card.image} alt='screenshot'/>
-        <div className="card-name">{card.name}</div>
+      <div className="flex flex-col border-2 border-zinc-800 p-4 cursor-pointer rounded-md" onClick={() => onCardClick(card)}>
+        <div className="relative">
+          <img 
+            src={card.image} 
+            className={loaddedImages ? 'block h-48 w-full rounded-md object-cover' : 'hidden'}
+            onLoad={() => handleCardClick(card.image)}
+          />
+          {!loaddedImages.includes(card.image) && (
+          <div className="absolute top-0 left-0 animate-pulse w-full">
+            <div className="flex items-center justify-center h-48 rounded bg-zinc-900 dark:bg-zinc-700">
+              <svg className="h-10 text-gray-200 dark:text-gray-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 18">
+                <path d="M18 0H2a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2Zm-5.5 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Zm4.376 10.481A1 1 0 0 1 16 15H4a1 1 0 0 1-.895-1.447l3.5-7A1 1 0 0 1 7.468 6a.965.965 0 0 1 .9.5l2.775 4.757 1.546-1.887a1 1 0 0 1 1.618.1l2.541 4a1 1 0 0 1 .028 1.011Z"/>
+              </svg>
+            </div>
+          </div>
+          )}
+        </div>
+        <div className=''>
+          <div className="card-name text-white text-center pt-4 text-xl">
+            {loaddedImages ? card.name : null}
+          </div>
+        </div>
+
+
         {/*
         <div className="card-footer">
           <div className="likes">120 people liked this</div>
@@ -31,6 +60,5 @@ const CardList = ({ cards, onCardClick  }) => (
     
     ))}
   </div>
-);
-
+);}
 export default CardList;
