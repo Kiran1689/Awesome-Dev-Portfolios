@@ -72,7 +72,7 @@ const CardModal = ({ card, onClose }) => {
               )}
 
               {x && x !== '-' && (
-                <a href={`https://www.twitter.com/${x}/`} target="_blank" rel="noopener noreferrer" className="mr-2 text-gray-300">
+                <a href={x} target="_blank" rel="noopener noreferrer" className="mr-2 text-gray-300">
                   <SiX size={25} />
                 </a>
               )}
@@ -84,7 +84,7 @@ const CardModal = ({ card, onClose }) => {
               )}
               
               {instagram && instagram !== '-' && (
-                <a href={`https://www.instagram.com/${instagram}/`} target="_blank" rel="noopener noreferrer" className="mr-2 text-pink-500">
+                <a href={instagram} target="_blank" rel="noopener noreferrer" className="mr-2 text-pink-500">
                   <SiInstagram size={25} />
                 </a>
               )}
