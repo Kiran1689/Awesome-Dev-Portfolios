@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -112,6 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fezeboris"><img src="https://avatars.githubusercontent.com/u/79030060?v=4?s=100" width="100px;" alt="fezeboris"/><br /><sub><b>fezeboris</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=fezeboris" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://matteosantoro.dev"><img src="https://avatars.githubusercontent.com/u/66700164?v=4?s=100" width="100px;" alt="Matteo Santoro"/><br /><sub><b>Matteo Santoro</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Matt-code-d" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://dobbe2.github.io/portfolio-2023/"><img src="https://avatars.githubusercontent.com/u/56312888?v=4?s=100" width="100px;" alt="James Dobbe"/><br /><sub><b>James Dobbe</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dobbe2" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://links.rafnixg.dev"><img src="https://avatars.githubusercontent.com/u/10915285?v=4?s=100" width="100px;" alt="Rafnix Guzman"/><br /><sub><b>Rafnix Guzman</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=rafnixg" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
