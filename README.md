@@ -27,7 +27,7 @@ This repo helps developers who wants to build portfolio by taking inspiration fr
 For those who already built, Showcase your Awesome Portfolio to the world.
 
 ## Live Deployment🤩
-![Preview](https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/75929997/0c32cd40-c299-4fc6-ad1d-5d1e59bfd7a4)
+![Preview](https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/64830641/044a3244-59bf-4d60-bba6-4ec260e98587)
 
 <br/>
 
@@ -45,7 +45,7 @@ For Adding your Portfolio please follow the guidelines in the [CONTRIBUTING](./C
 If you face any issues or bugs while using this project, please feel free to create a new [Issue](https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues/new/choose) in the Issues section. 
 
 ### 3. Feature Requests:💡
-If you have a feature in mind that you think would enhance this project, Please submit your ideas in the [Issue](https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues/new/choose) section,
+If you have a feature in mind that you think would enhance this project, Please submit your ideas in the [Issue](https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues/new/choose) section.
 
 ## Support💜
 
@@ -57,11 +57,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Admin/Maintainer🕵  
 
-<a href="https://github.com/Kiran1689"><img src="https://avatars.githubusercontent.com/u/75929997?s=96&v=4" width="100px;" alt=""/><br /><sub align="center"><b>Kiran Naragund</b></sub></a>
+<a href="https://github.com/Kiran1689"><img src="https://avatars.githubusercontent.com/u/75929997?v=4" width="100px;" alt=""/><br /><sub align="center"><b>Kiran Naragund</b></sub></a>
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -84,6 +84,39 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://furki.vercel.app/"><img src="https://avatars.githubusercontent.com/u/84590614?v=4?s=100" width="100px;" alt="Furkan "/><br /><sub><b>Furkan </b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=4Furki4" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sirLisko"><img src="https://avatars.githubusercontent.com/u/435399?v=4?s=100" width="100px;" alt="Luca Lischetti"/><br /><sub><b>Luca Lischetti</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=sirLisko" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.jimraptis.com"><img src="https://avatars.githubusercontent.com/u/24657754?v=4?s=100" width="100px;" alt="Jim Raptis"/><br /><sub><b>Jim Raptis</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dimitrisraptis96" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://yashitanamdeo.github.io"><img src="https://avatars.githubusercontent.com/u/49322948?v=4?s=100" width="100px;" alt="Yashita Namdeo"/><br /><sub><b>Yashita Namdeo</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=yashitanamdeo" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://swappy-web.netlify.app/"><img src="https://avatars.githubusercontent.com/u/95163993?v=4?s=100" width="100px;" alt="Swapnil Shivpuje"/><br /><sub><b>Swapnil Shivpuje</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=iamswapnil22" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/elmonickcool"><img src="https://avatars.githubusercontent.com/u/41835231?v=4?s=100" width="100px;" alt="Elmo Nickol"/><br /><sub><b>Elmo Nickol</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=elmonickcool" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vidu.sh/an"><img src="https://avatars.githubusercontent.com/u/25385500?v=4?s=100" width="100px;" alt="Vidushan CHOORIYAKUMARAN"/><br /><sub><b>Vidushan CHOORIYAKUMARAN</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vidjul" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dinogomez.vercel.app/"><img src="https://avatars.githubusercontent.com/u/41871666?v=4?s=100" width="100px;" alt="Paul"/><br /><sub><b>Paul</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dinogomez" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://preetsuthar.me"><img src="https://avatars.githubusercontent.com/u/75468116?v=4?s=100" width="100px;" alt="Preet Suthar"/><br /><sub><b>Preet Suthar</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=preetsuthar17" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.tiagocreator.com/"><img src="https://avatars.githubusercontent.com/u/82607849?v=4?s=100" width="100px;" alt="Tiago Leite"/><br /><sub><b>Tiago Leite</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=tiagocreator" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://lakshanrukantha.github.io"><img src="https://avatars.githubusercontent.com/u/64830641?v=4?s=100" width="100px;" alt="Lakshan Rukantha"/><br /><sub><b>Lakshan Rukantha</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LakshanRukantha" title="Code">💻</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LakshanRukantha" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://khaled.is-a.dev"><img src="https://avatars.githubusercontent.com/u/74397286?v=4?s=100" width="100px;" alt="Khaled"/><br /><sub><b>Khaled</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=khaled-0" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://genesisgabiola.tech/"><img src="https://avatars.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt="Genesis Gabiola"/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=gbgabiola" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ajaykannan.netlify.app/"><img src="https://avatars.githubusercontent.com/u/78952955?v=4?s=100" width="100px;" alt="S. Ajay Kannan"/><br /><sub><b>S. Ajay Kannan</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Ajay-Kannan7" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://paalss.vercel.app/"><img src="https://avatars.githubusercontent.com/u/39744024?v=4?s=100" width="100px;" alt="Pål Syvertsen Stakvik"/><br /><sub><b>Pål Syvertsen Stakvik</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=paalss" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://aditya.medhe.in"><img src="https://avatars.githubusercontent.com/u/9315396?v=4?s=100" width="100px;" alt="Aditya Medhe"/><br /><sub><b>Aditya Medhe</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=adityamedhe" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://concatofilippo.com/"><img src="https://avatars.githubusercontent.com/u/127858984?v=4?s=100" width="100px;" alt="Fil"/><br /><sub><b>Fil</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=fppcnc" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yared.vercel.app"><img src="https://avatars.githubusercontent.com/u/55293585?v=4?s=100" width="100px;" alt="Yared Tekile"/><br /><sub><b>Yared Tekile</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yared29" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://shoghisimon.cc"><img src="https://avatars.githubusercontent.com/u/38010540?v=4?s=100" width="100px;" alt="SelfMadeSystem"/><br /><sub><b>SelfMadeSystem</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=SelfMadeSystem" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://maheshbabu11.dev/"><img src="https://avatars.githubusercontent.com/u/43287976?v=4?s=100" width="100px;" alt="Mahesh Babu"/><br /><sub><b>Mahesh Babu</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=MaheshBabu11" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://himanshuchandola.fyi"><img src="https://avatars.githubusercontent.com/u/96554303?v=4?s=100" width="100px;" alt="Himanshu Chandola"/><br /><sub><b>Himanshu Chandola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=himanshuchandola" title="Code">💻</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues?q=author%3Ahimanshuchandola" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisJimenez19"><img src="https://avatars.githubusercontent.com/u/102745510?v=4?s=100" width="100px;" alt="Luis Jimenez"/><br /><sub><b>Luis Jimenez</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=LuisJimenez19" title="Code">💻</a> <a href="#design-LuisJimenez19" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fezeboris"><img src="https://avatars.githubusercontent.com/u/79030060?v=4?s=100" width="100px;" alt="fezeboris"/><br /><sub><b>fezeboris</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=fezeboris" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://matteosantoro.dev"><img src="https://avatars.githubusercontent.com/u/66700164?v=4?s=100" width="100px;" alt="Matteo Santoro"/><br /><sub><b>Matteo Santoro</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Matt-code-d" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dobbe2.github.io/portfolio-2023/"><img src="https://avatars.githubusercontent.com/u/56312888?v=4?s=100" width="100px;" alt="James Dobbe"/><br /><sub><b>James Dobbe</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=dobbe2" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://links.rafnixg.dev"><img src="https://avatars.githubusercontent.com/u/10915285?v=4?s=100" width="100px;" alt="Rafnix Guzman"/><br /><sub><b>Rafnix Guzman</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=rafnixg" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://francescoronel.com"><img src="https://avatars.githubusercontent.com/u/4284691?v=4?s=100" width="100px;" alt="Frances Coronel"/><br /><sub><b>Frances Coronel</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=FrancesCoronel" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yayamohamed.com"><img src="https://avatars.githubusercontent.com/u/63175231?v=4?s=100" width="100px;" alt="Yaya Mohamed"/><br /><sub><b>Yaya Mohamed</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yaya12085" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -104,5 +137,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤ from Developers.
+  Made with ❤ by Developers.
 </p>
