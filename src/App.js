@@ -1,24 +1,25 @@
-
-import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import './App.css';
-import Navbar from './components/Navbar';
-import CardList from './components/CardList';
-import CardModal from './components/CardModal'; 
-import Footer from './components/Footer';
-import ScrollToTopButton from './components/ScrollToTopButton';
-import SignUp from './components/SignUp'
-import Home from './Home';
+import { useEffect, useState } from "react";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import "./App.css";
+import Home from "./Home";
+import CardList from "./components/CardList";
+import CardModal from "./components/CardModal";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
+import ScrollToTopButton from "./components/ScrollToTopButton";
+import SignUp from "./components/SignUp";
 
 const App = () => {
   const [cards, setCards] = useState([]);
   const [selectedCard, setSelectedCard] = useState(null);
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState("");
   const [filteredCards, setFilteredCards] = useState([]);
 
   useEffect(() => {
     const importAll = (context) => context.keys().map(context);
-    let cardData = importAll(require.context('./profileData', false, /\.json$/));
+    let cardData = importAll(
+      require.context("./profileData", false, /\.json$/)
+    );
 
     // Sort cards alphabetically by name
     cardData = cardData.sort((a, b) => {
@@ -47,14 +48,12 @@ const App = () => {
     let filteredData = cards;
 
     if (searchTerm) {
-      filteredData = filteredData.filter(
-        (card) =>
-          card.name.toLowerCase().includes(searchTerm.toLowerCase())
+      filteredData = filteredData.filter((card) =>
+        card.name.toLowerCase().includes(searchTerm.toLowerCase())
       );
     }
     setFilteredCards(filteredData);
   };
-  
 
   return (
     <Router>
@@ -68,9 +67,14 @@ const App = () => {
               <>
                 <Navbar
                   searchTerm={searchTerm}
-                  handleSearchChange={(event) => setSearchTerm(event.target.value)}
+                  handleSearchChange={(event) =>
+                    setSearchTerm(event.target.value)
+                  }
                 />
-                <CardList cards={filteredCards} onCardClick={(card) => handleCardClick(card)} />
+                <CardList
+                  cards={filteredCards}
+                  onCardClick={(card) => handleCardClick(card)}
+                />
                 <CardModal card={selectedCard} onClose={handleCloseModal} />
                 <ScrollToTopButton />
                 <Footer />
