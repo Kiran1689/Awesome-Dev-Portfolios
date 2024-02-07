@@ -346,6 +346,15 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "vinodjangid07",
+      "name": "Vinod Jangid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86096184?v=4",
+      "profile": "https://www.vinodjangid.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
