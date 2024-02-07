@@ -343,7 +343,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/63175231?v=4",
       "profile": "http://yayamohamed.com",
       "contributions": [
-        "code"
+        "code",
+        "bug"
       ]
     }
   ],
