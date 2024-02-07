@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://francescoronel.com"><img src="https://avatars.githubusercontent.com/u/4284691?v=4?s=100" width="100px;" alt="Frances Coronel"/><br /><sub><b>Frances Coronel</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=FrancesCoronel" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://yayamohamed.com"><img src="https://avatars.githubusercontent.com/u/63175231?v=4?s=100" width="100px;" alt="Yaya Mohamed"/><br /><sub><b>Yaya Mohamed</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yaya12085" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yayamohamed.com"><img src="https://avatars.githubusercontent.com/u/63175231?v=4?s=100" width="100px;" alt="Yaya Mohamed"/><br /><sub><b>Yaya Mohamed</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yaya12085" title="Code">💻</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues?q=author%3AYaya12085" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
