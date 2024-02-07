@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -116,7 +116,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://francescoronel.com"><img src="https://avatars.githubusercontent.com/u/4284691?v=4?s=100" width="100px;" alt="Frances Coronel"/><br /><sub><b>Frances Coronel</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=FrancesCoronel" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://yayamohamed.com"><img src="https://avatars.githubusercontent.com/u/63175231?v=4?s=100" width="100px;" alt="Yaya Mohamed"/><br /><sub><b>Yaya Mohamed</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yaya12085" title="Code">💻</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues?q=author%3AYaya12085" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yayamohamed.com"><img src="https://avatars.githubusercontent.com/u/63175231?v=4?s=100" width="100px;" alt="Yaya Mohamed"/><br /><sub><b>Yaya Mohamed</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Yaya12085" title="Code">💻</a> <a href="#bug-Yaya12085" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.vinodjangid.me"><img src="https://avatars.githubusercontent.com/u/86096184?v=4?s=100" width="100px;" alt="Vinod Jangid"/><br /><sub><b>Vinod Jangid</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vinodjangid07" title="Code">💻</a></td>
+
     </tr>
   </tbody>
 </table>
