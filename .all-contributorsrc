@@ -355,6 +355,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "AladdineDev",
+      "name": "Aladdine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84779817?v=4",
+      "profile": "https://www.aladdine.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
