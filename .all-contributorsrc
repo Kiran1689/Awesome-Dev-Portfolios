@@ -291,6 +291,88 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "fezeboris",
+      "name": "fezeboris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79030060?v=4",
+      "profile": "https://github.com/fezeboris",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Matt-code-d",
+      "name": "Matteo Santoro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66700164?v=4",
+      "profile": "http://matteosantoro.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dobbe2",
+      "name": "James Dobbe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56312888?v=4",
+      "profile": "https://dobbe2.github.io/portfolio-2023/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rafnixg",
+      "name": "Rafnix Guzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10915285?v=4",
+      "profile": "https://links.rafnixg.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "FrancesCoronel",
+      "name": "Frances Coronel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4284691?v=4",
+      "profile": "https://francescoronel.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Yaya12085",
+      "name": "Yaya Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63175231?v=4",
+      "profile": "http://yayamohamed.com",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "vinodjangid07",
+      "name": "Vinod Jangid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86096184?v=4",
+      "profile": "https://www.vinodjangid.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AladdineDev",
+      "name": "Aladdine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84779817?v=4",
+      "profile": "https://www.aladdine.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "RupendraSinghRajawat",
+      "name": "Rupendra Singh Rajawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99586119?v=4",
+      "profile": "https://github.com/RupendraSinghRajawat",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
