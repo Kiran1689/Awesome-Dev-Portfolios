@@ -39,7 +39,7 @@ export function UserAuthLoginForm({ className, ...props }) {
       } else {
         console.log('Email/password login successful:', data);
         // Redirect to localhost page after successful signup
-        navigate('/'); 
+        navigate('/portfolios'); 
       }
     } catch (error) {
       console.error(error);
