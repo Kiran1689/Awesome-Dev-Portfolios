@@ -1,12 +1,24 @@
-// src/App.js
-import React, { useState } from 'react';
-//import ReactPlayer from 'react-player';
-//import { Link } from 'react-router-dom';
+"use client"
+import {React, useState} from "react"
+import { HeroParallax } from "./components/ui/hero-parallax"
+import { Meteors } from "./components/ui/meteors";
 import { SiX, SiGithub, SiLinkedin, SiInstagram, SiGmail } from "react-icons/si"
-
-
-function Home() {
-    const getCurrentYear = () => new Date().getFullYear()
+import Pro1 from "./images/Pro1.png";
+import Pro3 from "./images/Pro3.png";
+import Pro2 from "./images/Pro2.png";
+import Pro4 from "./images/Pro4.png";
+import Pro5 from "./images/Pro5.png";
+import Pro6 from "./images/Pro6.png";
+import Pro7 from "./images/Pro7.png";
+import Pro8 from "./images/Pro8.png";
+import Pro9 from "./images/Pro9.png";
+import Pro10 from "./images/Pro10.png";
+import Card1 from "./images/Card_1.png";
+import Card2 from "./images/Card2.png";
+import Card3 from "./images/Card_3.png";
+//import { Import } from "lucide-react";
+export default function Home() {
+  const getCurrentYear = () => new Date().getFullYear()
 
     const [showNavbar, setShowNavbar] = useState(false)
 
@@ -119,13 +131,13 @@ function Home() {
   return (
     <section>
     {/* Navbar */}
-    <header className="bg-black border-b border-gray-500">
-        <div className="px-4 mx-auto sm:px-6 lg:px-8 xl:px-12">
+    <header className="bg-black border-b border-gray-500 top-0 right-0 left-0 z-50 fixed backdrop-blur-md">
+        <div className=" mx-auto sm:px-6 lg:px-8 xl:px-12">
             <div className="flex items-center justify-between h-16 lg:h-[72px]">
                 <div className="flex items-center flex-shrink-0">
-                    <a href="/" title="" className="inline-flex">
-                    <h1 className=" text-white font-medium">A W E S O M E</h1>
-                    </a>
+                <a class="flex items-center  no-underline hover:no-underline font-bold text-xl" href="/">
+                  <span class="bg-clip-text text-transparent bg-gradient-to-r from-gray-300 via-pink-500 to-purple-500">A W E S O M E</span>
+                </a>
                 </div>
 
                 <div className={`absolute opacity-1  border border-zinc-600 border-t-0 h-12   top-0  right-0 flex items-center  justify-around md:justify-center md:gap-8 px-10 w-full bg-zinc-950/90 backdrop-blur-sm ${showNavbar ? "translate-y-16 z-10 opacity-1 " : "translate-y-0 -z-10 opacity-0 lg:opacity-100"}
@@ -181,77 +193,7 @@ function Home() {
         </div>
     </header>
     {/*Hero section*/}
-    <div className="relative pt-12 bg-black sm:py-16 lg:py-20 xl:pt-32 xl:pb-44">
-        <div className="absolute inset-0 hidden lg:block">
-            <img className="object-cover object-right-bottom w-full h-full" src="https://iili.io/JYiTEe1.png" alt="" />
-        </div>
-
-        <div className="relative px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-            <div className="max-w-xl mx-auto text-center lg:max-w-md xl:max-w-lg lg:text-left lg:mx-0">
-                <h1 className="text-3xl font-bold text-white sm:text-4xl xl:text-5xl xl:leading-tight">Want to build awesome portfolio?</h1>
-                <p className="mt-8 text-base font-normal leading-7 text-gray-400 lg:max-w-md xl:pr-0 lg:pr-16">On the Awesome Dev Portfolios platform, you can showcase your impressive portfolio to the world. If you're looking to build your own, feel free to browse through the projects for inspiration.</p>
-                <div className="flex items-center justify-center mt-8 space-x-5 xl:mt-16 lg:justify-start">
-                    <a
-                        href="/portfolios"
-                        title="Portfolios"
-                        className="
-                            inline-flex
-                            items-center
-                            justify-center
-                            px-3
-                            py-3
-                            text-base
-                            font-bold
-                            leading-7
-                            text-gray-900
-                            transition-all
-                            duration-200
-                            bg-white
-                            border border-transparent
-                            rounded-md
-                            sm:px-6
-                            focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-900 focus:ring-white
-                            hover:bg-gray-200
-                        "
-                        role="button"
-                    >
-                        BROWSE PROJECTS
-                    </a>
-
-                    <a
-                        href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/blob/main/CONTRIBUTING.md"
-                        title="GitHub"
-                        className="
-                            inline-flex
-                            items-center
-                            justify-center
-                            px-2
-                            py-3
-                            text-base
-                            font-bold
-                            leading-7
-                            text-white
-                            transition-all
-                            duration-200
-                            bg-transparent
-                            border border-transparent
-                            rounded-md
-                            sm:px-4
-                            focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-900 focus:ring-gray-700
-                            hover:bg-gray-700
-                        "
-                        role="button"
-                    >
-                        ADD YOUR PORTFOLIO
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <div className="mt-8 lg:hidden">
-            <img className="object-cover w-full h-full" src="https://iili.io/JYPUxLX.png" alt="" />
-        </div>
-    </div>
+    <HeroParallax products={products} />
     
     {/*Feature section*/}
     <div className="flex items-center justify-center flex-col sm:flex py-8 bg-white sm:py-16 lg:py-20 xl:pt-32 xl:pb-44">
@@ -265,34 +207,36 @@ function Home() {
       </div>
       <div className="flex flex-col space-y-4 md:flex-row md:space-y-0 md:space-x-4">
         <div className="bg-black p-4 rounded-md shadow-md max-w-xs text-center">
-          <h3 className="text-white mb-2 mt-4">DESIGN FAST</h3>
-          <p className="text-gray-400 tracking-tighter p-5">
+          <h3 className="text-lg font-bold md:text-2xl mb-2 mt-4 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600">DESIGN FAST</h3>
+          <p className="text-neutral-500 tracking-tighter p-5">
           Create a stunning design portfolio by leveraging the work of other developers. Draw inspiration from their projects to enhance the visual appeal and effectiveness of your own portfolio.
           </p>
           <div class="v ab bb dc bf cf">
-            <img class="zg zc" src="https://iili.io/JYZHFyv.png" alt=""></img>
+            <img class="zg zc" src={Card1} alt=""></img>
           </div>
+          
         </div>
 
         {/*  Card 2 */}
-        <div className="bg-black p-4 rounded-md shadow-md max-w-xs text-center">
-          <h3 className="text-white mb-2 mt-4">CONNECT</h3>
-          <p className="text-gray-400  tracking-tighter p-5">
+        <div className="bg-black p-4 rounded-md shadow-md max-w-xs text-center relative">
+          <h3 className="text-lg font-bold md:text-2xl mb-2 mt-4 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600">CONNECT</h3>
+          <p className="text-neutral-500  tracking-tighter p-5">
           Connect with developers worldwide, sharing experiences and collaborating on exciting projects. Reach out directly if you need assistance with their portfolio projects.
           </p>
           <div class="v ab bb dc bf cf ih wh">
-              <img class="zg zc" src="https://iili.io/JYtFmXf.png" alt=""></img>
+              <img class="zg zc" src={Card2} alt=""></img>
           </div>
+          <Meteors number={10} />
         </div>
 
         {/* Card 3 */}
         <div className="bg-black p-4 rounded-md shadow-md max-w-xs text-center">
-          <h3 className="text-white mb-2 mt-4">OPEN SOURCE</h3>
-          <p className="text-gray-400 tracking-tighter p-5">
+          <h3 className="text-lg font-bold md:text-2xl mb-2 mt-4 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600">OPEN SOURCE</h3>
+          <p className="text-neutral-500 tracking-tighter p-5">
           Contribute to the open-source community by showcasing your GitHub repositories. Collaborate on exciting projects and make your mark in the world of open source.
           </p>
           <div class="v ab bb dc bf cf ih wh">
-              <img class="zg zc" src="https://iili.io/JYp193v.png" alt=""></img>
+              <img class="zg zc" src={Card3} alt=""></img>
           </div>
         </div>
       </div>
@@ -422,5 +366,59 @@ function Home() {
   );
 }
 
+export const products = [
+  {
+    title: "Rohit Kushwaha",
+    link: "",
+    thumbnail: Pro1
+  },
+  {
+    title: "Frances Coronel",
+    link: "",
+    thumbnail: Pro3
+  },
+  {
+    title: "Kiran Naragund",
+    link: "https://kiran1689.github.io",
+    thumbnail: Pro2
+  },
 
-export default Home;
+  {
+    title: "Luis Ángel Jimenez",
+    link: "",
+    thumbnail: Pro6
+  },
+
+  {
+    title: "Yaroslav Lebedenko",
+    link: "",
+    thumbnail: Pro8
+  },
+
+  {
+    title: "ARupendra Singh Rajawat",
+    link: "",
+    thumbnail: Pro4
+  },
+  {
+    title: "Matteo Santoro Dev",
+    link: "",
+    thumbnail: Pro5
+  },
+  {
+    title: "Pål Stakvik",
+    link: "",
+    thumbnail: Pro7
+  },
+  {
+    title: "Vinod Jangid",
+    link: "",
+    thumbnail: Pro10
+  },
+  {
+    title: "Lakshan Rukantha",
+    link: "",
+    thumbnail: Pro9
+  }
+  
+]
