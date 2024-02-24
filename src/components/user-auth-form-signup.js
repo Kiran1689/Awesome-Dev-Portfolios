@@ -38,7 +38,7 @@ export function UserAuthSignUpForm({ className, ...props }) {
       } else {
         console.log('Email/password sign-up successful:', data);
         // Redirect to main page after successful signup
-        navigate('/');
+        navigate('/portfolios');
       }
     } catch (error) {
       console.error(error);
