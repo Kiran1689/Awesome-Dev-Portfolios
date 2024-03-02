@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -122,6 +122,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RupendraSinghRajawat"><img src="https://avatars.githubusercontent.com/u/99586119?v=4?s=100" width="100px;" alt="Rupendra Singh Rajawat"/><br /><sub><b>Rupendra Singh Rajawat</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=RupendraSinghRajawat" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ratasi"><img src="https://avatars.githubusercontent.com/u/16082370?v=4?s=100" width="100px;" alt="TarreDev"/><br /><sub><b>TarreDev</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=ratasi" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://rajsavaliya.com"><img src="https://avatars.githubusercontent.com/u/46242040?v=4?s=100" width="100px;" alt="Raj Savaliya"/><br /><sub><b>Raj Savaliya</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=SRX9" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AnasMansy"><img src="https://avatars.githubusercontent.com/u/91702503?v=4?s=100" width="100px;" alt="Anas0"/><br /><sub><b>Anas0</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=AnasMansy" title="Code">💻</a> <a href="#ideas-AnasMansy" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
