@@ -218,7 +218,7 @@ export default function Home() {
         </div>
 
         {/*  Card 2 */}
-        <div className="bg-black p-4 rounded-md shadow-md max-w-xs text-center relative">
+        <div className="bg-black p-4 rounded-md shadow-md max-w-xs text-center relative overflow-x-hidden">
           <h3 className="text-lg font-bold md:text-2xl mb-2 mt-4 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600">CONNECT</h3>
           <p className="text-neutral-500  tracking-tighter p-5">
           Connect with developers worldwide, sharing experiences and collaborating on exciting projects. Reach out directly if you need assistance with their portfolio projects.
