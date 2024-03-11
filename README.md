@@ -27,7 +27,7 @@ This repo helps developers who wants to build portfolio by taking inspiration fr
 For those who already built, Showcase your Awesome Portfolio to the world.
 
 ## Live Deployment🤩
-![Preview](https://github.com/Kiran1689/Awesome-Dev-Portfolios/assets/107102771/335cafa4-de53-4186-85f8-7c0c4a385ef0)
+![Preview](https://github.com/j-mahapatra/Awesome-Dev-Portfolios/assets/107102771/0794c624-af2f-4b7f-9cef-c6362a132847)
 
 <br/>
 
