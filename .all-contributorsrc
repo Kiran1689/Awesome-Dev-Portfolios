@@ -401,6 +401,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "anandbaraik",
+      "name": "Anand Baraik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31516195?v=4",
+      "profile": "https://peerlist.io/anandbaraik",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
