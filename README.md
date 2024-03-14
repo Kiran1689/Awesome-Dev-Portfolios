@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -127,6 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AnasMansy"><img src="https://avatars.githubusercontent.com/u/91702503?v=4?s=100" width="100px;" alt="Anas0"/><br /><sub><b>Anas0</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=AnasMansy" title="Code">💻</a> <a href="#ideas-AnasMansy" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://peerlist.io/anandbaraik"><img src="https://avatars.githubusercontent.com/u/31516195?v=4?s=100" width="100px;" alt="Anand Baraik"/><br /><sub><b>Anand Baraik</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=anandbaraik" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/j-mahapatra"><img src="https://avatars.githubusercontent.com/u/107102771?v=4?s=100" width="100px;" alt="Jagannath Mahapatra"/><br /><sub><b>Jagannath Mahapatra</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=j-mahapatra" title="Documentation">📖</a> <a href="#design-j-mahapatra" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://nirban-chakraborty.netlify.app"><img src="https://avatars.githubusercontent.com/u/74231771?v=4?s=100" width="100px;" alt="Nirban Chakraborty"/><br /><sub><b>Nirban Chakraborty</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=nirban256" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
