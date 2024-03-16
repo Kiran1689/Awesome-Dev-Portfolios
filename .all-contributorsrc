@@ -417,7 +417,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/107102771?v=4",
       "profile": "https://github.com/j-mahapatra",
       "contributions": [
-        "doc"
+        "doc",
+        "design"
+      ]
+    },
+    {
+      "login": "nirban256",
+      "name": "Nirban Chakraborty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74231771?v=4",
+      "profile": "https://nirban-chakraborty.netlify.app",
+      "contributions": [
+        "code"
       ]
     }
   ],
