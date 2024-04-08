@@ -51,6 +51,10 @@ If you have a feature in mind that you think would enhance this project, Please 
 
 Don't forget to leave a star ⭐️.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Kiran1689/Awesome-Dev-Portfolios&type=Date)](https://star-history.com/#Kiran1689/Awesome-Dev-Portfolios&Date)
+
 ## License📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
