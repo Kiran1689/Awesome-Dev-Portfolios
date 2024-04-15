@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -135,6 +135,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://yaasiin-dev.vercel.app/"><img src="https://avatars.githubusercontent.com/u/86059668?v=4?s=100" width="100px;" alt="AYEVA Yaasiin"/><br /><sub><b>AYEVA Yaasiin</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=yaasiin-ayeva" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://phillipcabrera.com"><img src="https://avatars.githubusercontent.com/u/77460748?v=4?s=100" width="100px;" alt="Phillip Cabrera"/><br /><sub><b>Phillip Cabrera</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=pcabreram1234" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://jasmeetsinghbhatia.github.io/resume/"><img src="https://avatars.githubusercontent.com/u/5153163?v=4?s=100" width="100px;" alt="Jasmeet Singh"/><br /><sub><b>Jasmeet Singh</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=jasmeetsinghbhatia" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://akshay-rajan.github.io"><img src="https://avatars.githubusercontent.com/u/145046584?v=4?s=100" width="100px;" alt="Akshay R"/><br /><sub><b>Akshay R</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=akshay-rajan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
