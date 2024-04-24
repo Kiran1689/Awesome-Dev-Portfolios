@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -139,6 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://akshay-rajan.github.io"><img src="https://avatars.githubusercontent.com/u/145046584?v=4?s=100" width="100px;" alt="Akshay R"/><br /><sub><b>Akshay R</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=akshay-rajan" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://williamssam.netlify.app/"><img src="https://avatars.githubusercontent.com/u/68322437?v=4?s=100" width="100px;" alt="Williams Samuel"/><br /><sub><b>Williams Samuel</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=williamssam" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jameel-webdev.vercel.app/"><img src="https://avatars.githubusercontent.com/u/126319130?v=4?s=100" width="100px;" alt="Jameel Ahmed"/><br /><sub><b>Jameel Ahmed</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=jameel-webdev" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
