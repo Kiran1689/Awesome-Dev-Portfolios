@@ -474,6 +474,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jameel-webdev",
+      "name": "Jameel Ahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126319130?v=4",
+      "profile": "https://jameel-webdev.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
