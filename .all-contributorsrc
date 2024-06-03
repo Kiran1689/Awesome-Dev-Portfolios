@@ -501,6 +501,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "KartikChinda",
+      "name": "Kartik Chinda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78233115?v=4",
+      "profile": "https://kartikchinda.netlify.app/",
+      "contributions": [
+        "bug",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
