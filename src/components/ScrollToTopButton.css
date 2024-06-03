@@ -14,23 +14,14 @@
 }
 
 .top-button.hidden {
-  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
 
 }
 
-/* @keyframes fadeIn {
-  99% {
-    visibility: hidden;
-  }
-
-  100% {
-    visibility: visible;
-  }
-} */
-
 .top-button.visible {
-  animation: cubic-bezier(1, 0, 0, 1);
-  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.3s ease-in;
 }
 
 .arrow path {
