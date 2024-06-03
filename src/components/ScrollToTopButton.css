@@ -1,7 +1,7 @@
 .top-button {
   width: 40px;
   height: 40px;
-  background: linear-gradient(#44ea76, #39fad7);
+  background: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13,11 +13,19 @@
   right: 20px;
 }
 
-.top-button.visible {
-  display: block;
+.top-button.hidden {
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
+
 }
+
+.top-button.visible {
+  opacity: 1;
+  transition: opacity 0.3s ease-in;
+}
+
 .arrow path {
-  fill: white;
+  fill: #000;
 }
 
 .text {
