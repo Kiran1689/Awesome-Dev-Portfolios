@@ -22,26 +22,27 @@ const CardItem = ({ card, onCardClick }) => {
   return (
     <>
 
-      <div className="card-item">
+      <div className="card-item rounded-t-xl">
 
         {!imageLoaded && <SkeletonLoader />}
         <img onClick={() => onCardClick(card)}
-          className="card-type-icon"
+          className="card-type-icon rounded-3xl p-3 pb-1"
           src={card.image}
           alt="screenshot"
           onLoad={() => setImageLoaded(true)}
           style={{ display: imageLoaded ? 'block' : 'none' }}
         />
-        <div className="card-name" onClick={() => onCardClick(card)}>{card.name}</div>
+        <div className="card-name border-b-[1px] border-[#ffffff70] pb-2" onClick={() => onCardClick(card)}>{card.name}</div>
         {/* adding tailwind CSS here, because it is the objectively better way to write CSS */}
-        <div className="flex flex-row justify-between items-center md:flex-col lg:flex-row gap-1 p-2 cursor-default">
-          <div>
+        {/* xhange to justify-around when building other features */}
+        <div className="flex flex-row justify-center items-center md:flex-col lg:flex-row gap-1 p-2 cursor-default">
+          {/* <div>
             {Math.floor(Math.random() * 100)} people liked this.
-          </div>
+          </div> */}
           <div className='flex flex-row gap-1 text-xl'>
             {/* icons go here */}
-            <button onClick={() => { alert("Clicked") }}><FaHeart className='text-red-500' /></button>
-            <button onClick={() => { alert("Clicked") }}><FaRegBookmark className='text-yellow-500' /></button>
+            {/* <button onClick={() => { alert("Clicked") }}><FaHeart className='text-red-500' /></button>
+            <button onClick={() => { alert("Clicked") }}><FaRegBookmark className='text-yellow-500' /></button> */}
             <button onClick={() => { setShareClicked(true) }}><IoMdShare className='text-blue-500' /></button>
             {shareClicked && <ShareModal toggleShareModel={toggleShareModel} cardUrl={card.livePortfolioLink} />}
           </div>

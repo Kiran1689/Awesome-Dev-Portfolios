@@ -24,8 +24,8 @@ const ShareModal = ({ toggleShareModel, cardUrl }) => {
 
 
         <div className='fixed top-2 md:top-0 inset-0 bg-opacity-30 backdrop-blur-lg flex justify-center items-center '>
-            <div className='flex rounded-xl top-14 md:top-0 flex-col gap-3 w-[50%] lg:w-[30%] m-5 p-2 text-white bg-slate-900 py-6'>
-                <div className='flex flex-row justify-between items-center relative top-14 md:top-0 l gap-3  pb-1 px-2'>
+            <div className='flex rounded-xl top-14 md:top-0 flex-col gap-3 w-[80%] md:w-[50%] lg:w-[30%] m-5 p-2 text-white bg-slate-900 py-6'>
+                <div className='flex flex-row justify-between items-center relative  md:top-0 l gap-3  pb-1 px-2'>
                     <div className='text-2xl font-bold '>
                         Share this portfolio
                     </div>
@@ -45,8 +45,8 @@ const ShareModal = ({ toggleShareModel, cardUrl }) => {
                         <FacebookIcon className='rounded-full  size-14' />
                     </FacebookShareButton>
                 </div>
-                <div className='px-2'>
-                    <div className='w-full h-[40px] bg-black rounded-xl mb-2 flex justify-between px-1 items-center'>
+                <div className='px-2 mt-2'>
+                    <div className='w-full h-[40px] px-2 bg-black rounded-xl mb-2 flex justify-between  items-center'>
                         <div>
                             {cardUrl.substr(0, 100)} {cardUrl.length > 100 ? "..." : ""}
                         </div>
