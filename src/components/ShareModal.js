@@ -3,6 +3,21 @@ import { WhatsappShareButton, TwitterShareButton, WhatsappIcon, TwitterIcon, Red
 
 const ShareModal = ({ toggleShareModel, cardUrl }) => {
 
+    const handleCopy = (e) => {
+        // this is another way of doing it if e.target.value
+        // console.log(e.target.getAttribute("value"));
+        // console.log(e);
+
+        navigator.clipboard.writeText(cardUrl);
+        document.getElementById("copyButton").style.background = "green"
+        document.getElementById("copyButton").innerHTML = "Copied!"
+
+        setTimeout(() => {
+            document.getElementById("copyButton").style.background = "white"
+            document.getElementById("copyButton").innerHTML = "Copy"
+        }, 1000);
+
+    }
 
     return (
 
@@ -31,11 +46,11 @@ const ShareModal = ({ toggleShareModel, cardUrl }) => {
                     </FacebookShareButton>
                 </div>
                 <div className='px-2'>
-                    <div className='w-full h-[40px] bg-black rounded-xl mb-2 flex justify-around items-center'>
+                    <div className='w-full h-[40px] bg-black rounded-xl mb-2 flex justify-between px-1 items-center'>
                         <div>
-                            Content of the link
+                            {cardUrl.substr(0, 100)} {cardUrl.length > 100 ? "..." : ""}
                         </div>
-                        <button>Copy</button>
+                        <button onClick={handleCopy} id='copyButton' className='rounded-xl px-2 py-1 bg-white text-black font-bold'>Copy</button>
                     </div>
                 </div>
             </div>
