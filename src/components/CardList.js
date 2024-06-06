@@ -18,7 +18,6 @@ const CardItem = ({ card, onCardClick }) => {
     setShareClicked(setShareClicked(false));
   }
 
-  console.log("The portfolio link is: ", card.livePortfolioLink)
 
   return (
     <>
@@ -37,7 +36,7 @@ const CardItem = ({ card, onCardClick }) => {
         {/* adding tailwind CSS here, because it is the objectively better way to write CSS */}
         <div className="flex flex-row justify-between items-center md:flex-col lg:flex-row gap-1 p-2 cursor-default">
           <div>
-            20 people liked this.
+            {Math.floor(Math.random() * 100)} people liked this.
           </div>
           <div className='flex flex-row gap-1 text-xl'>
             {/* icons go here */}

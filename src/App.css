@@ -225,7 +225,7 @@ body {
   animation-name: fade-in;
   animation-duration: 1s;
   animation-timing-function: ease-in-out;
-  /* animation-fill-mode: forwards; breaks the fixed part */
+  /* animation-fill-mode: forwards; doesnt let fixed work */
   overflow: hidden;
   height: auto;
   color: #e5e5e8;
