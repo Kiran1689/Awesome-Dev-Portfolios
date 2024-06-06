@@ -28,6 +28,7 @@
     "react-player": "^2.14.1",
     "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",
+    "react-share": "^5.1.0",
     "tailwind-merge": "^2.2.0",
     "tailwindcss-animate": "^1.0.7",
     "util": "^0.12.5",

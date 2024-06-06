@@ -2,6 +2,7 @@
 body {
   font-family: 'Google Sans', sans-serif;
   background-color: #000000;
+  position: relative;
 
 }
 
@@ -203,6 +204,7 @@ body {
 
 /* Cards styling */
 .card-list {
+
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
@@ -211,19 +213,19 @@ body {
 }
 
 .card-item {
-  position: relative;
+  /* position: relative; */
   flex-basis: 100%;
-  backdrop-filter: blur(10px);
+  /* backdrop-filter: blur(10px); doesnt let fixed work */
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  /*padding: 15px;*/
+  padding: 15px;
   margin-bottom: 15px;
   margin-left: 20px;
   margin-right: 20px;
   animation-name: fade-in;
   animation-duration: 1s;
   animation-timing-function: ease-in-out;
-  animation-fill-mode: forwards;
+  /* animation-fill-mode: forwards; breaks the fixed part */
   overflow: hidden;
   height: auto;
   color: #e5e5e8;
@@ -233,18 +235,6 @@ body {
 
 }
 
-.card-actions {
-  padding: 1px 1px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.card-icons {
-  display: flex;
-  flex-direction: row;
-}
 
 
 

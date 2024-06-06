@@ -1,22 +1,48 @@
-import React from 'react'
+import React from 'react';
+import { WhatsappShareButton, TwitterShareButton, WhatsappIcon, TwitterIcon, RedditShareButton, RedditIcon, XIcon, FacebookShareButton, FacebookIcon } from 'react-share';
 
-const ShareModal = ({ toggleShareModel }) => {
+const ShareModal = ({ toggleShareModel, cardUrl }) => {
+
+
     return (
-        <section>
-            <div className='fixed top-2 md:top-0 inset-0 bg-opacity-30 backdrop-blur-sm flex justify-center z-20 items-center font-sans'>
-                <div className='flex flex-col w-[80%] lg:w-[50%] bg-[#ffffff] p-2 rounded-xl'>
-                    <div className='flex flex-row justify-between items-center relative top-14 md:top-0 l gap-3 border-b-2 pb-1 border-black '>
-                        <div className='text-2xl font-bold '>
-                            Share this portfolio
-                        </div>
-                        <button className=' text-right px-2 py-1 text-2xl font-sans border-2 rounded-xl font-black border-black' onClick={() => { toggleShareModel() }}>X</button>
+
+
+
+        <div className='fixed top-2 md:top-0 inset-0 bg-opacity-30 backdrop-blur-sm flex justify-center items-center '>
+            <div className='flex rounded-xl top-14 md:top-0 flex-col gap-3 w-[50%] m-5 p-2 text-white bg-slate-900'>
+                <div className='flex flex-row justify-between items-center relative top-14 md:top-0 l gap-3  pb-1 px-2'>
+                    <div className='text-2xl font-bold '>
+                        Share this portfolio
                     </div>
-                    <div>
-                        Content below
+                    <button className=' text-right px-2 py-1 text-2xl font-sans  rounded-xl bg-black text-white font-black border-black hover:bg-white hover:text-black duration-150' onClick={() => { toggleShareModel() }}>X</button>
+                </div>
+                <div className=' flex justify-center items-center gap-2 flex-wrap'>
+                    <TwitterShareButton url={cardUrl} quote="Look at this super cool tutorial I found!">
+                        <XIcon className='rounded-full size-14 ' />
+                    </TwitterShareButton>
+                    <WhatsappShareButton url={cardUrl} quote="Look at this super cool tutorial I found!">
+                        <WhatsappIcon className='rounded-full  size-14' />
+                    </WhatsappShareButton>
+                    <RedditShareButton url={cardUrl} quote="Look at this super cool tutorial I found!">
+                        <RedditIcon className='rounded-full  size-14' />
+                    </RedditShareButton>
+                    <FacebookShareButton url={cardUrl} quote="Look at this super cool tutorial I found!">
+                        <FacebookIcon className='rounded-full  size-14' />
+                    </FacebookShareButton>
+                </div>
+                <div className='px-2'>
+                    <div className='w-full h-[40px] bg-black rounded-xl mb-2 flex justify-around items-center'>
+                        <div>
+                            Content of the link
+                        </div>
+                        <button>Copy</button>
                     </div>
                 </div>
             </div>
-        </section>
+        </div >
+
+
+
     )
 }
 
