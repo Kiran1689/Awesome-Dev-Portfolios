@@ -214,7 +214,7 @@ body {
 }
 
 .card-item {
-  /* position: relative; */
+  position: relative;
   flex-basis: 100%;
   /* backdrop-filter: blur(10px); doesnt let fixed work */
   border-radius: 15px;
@@ -232,7 +232,7 @@ body {
   color: #e5e5e8;
   background-color: #000000;
   border: 2px solid #ffffff40;
-  ;
+
 
 }
 

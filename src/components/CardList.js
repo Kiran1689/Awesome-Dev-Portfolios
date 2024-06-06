@@ -60,7 +60,7 @@ const CardList = ({ cards, onCardClick }) => {
 
       <div className="card-list">
         {cards.map((card) => (
-          <div key={card.id} >
+          <div key={card.id}  >
             <CardItem card={card} onCardClick={onCardClick} />
           </div>
 
