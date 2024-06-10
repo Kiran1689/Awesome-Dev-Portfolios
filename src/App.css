@@ -211,6 +211,7 @@ body {
   gap: 20px;
   padding-left: 40px;
   padding-right: 40px;
+
 }
 
 .card-item {
@@ -349,13 +350,15 @@ h3 {
   .card-list {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: start;
     padding: 0;
   }
 
   .card-item {
     width: 100%;
     height: auto;
+    margin: 0;
   }
 }
 
