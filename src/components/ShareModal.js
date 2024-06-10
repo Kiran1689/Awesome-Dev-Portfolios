@@ -13,7 +13,7 @@ const ShareModal = ({ toggleShareModel, cardUrl }) => {
         document.getElementById("copyButton").innerHTML = "Copied!"
 
         setTimeout(() => {
-            document.getElementById("copyButton").style.background = "white"
+            document.getElementById("copyButton").style.background = "black"
             document.getElementById("copyButton").innerHTML = "Copy"
         }, 1000);
 
@@ -24,7 +24,7 @@ const ShareModal = ({ toggleShareModel, cardUrl }) => {
 
 
         <div className='fixed top-2 md:top-0 inset-0 bg-opacity-30 backdrop-blur-lg flex justify-center items-center '>
-            <div className='flex rounded-xl top-14 md:top-0 flex-col gap-3 w-[80%] md:w-[50%] lg:w-[30%] m-5 p-2 text-white bg-slate-900 py-6'>
+            <div className='flex rounded-xl top-14 md:top-0 flex-col gap-3 w-[80%] md:w-[50%] lg:w-[30%] m-5 p-2 text-white bg-zinc-800 py-6'>
                 <div className='flex flex-row justify-between items-center relative  md:top-0 l gap-3  pb-1 px-2'>
                     <div className='text-2xl font-bold '>
                         Share this portfolio
@@ -46,11 +46,11 @@ const ShareModal = ({ toggleShareModel, cardUrl }) => {
                     </FacebookShareButton>
                 </div>
                 <div className='px-2 mt-2'>
-                    <div className='w-full h-[40px] px-2 bg-black rounded-xl mb-2 flex justify-between  items-center'>
+                    <div className='w-full h-[40px] px-3 py-6 bg-white text-black rounded-xl mb-2 flex justify-between  items-center'>
                         <div>
                             {cardUrl.substr(0, 100)} {cardUrl.length > 100 ? "..." : ""}
                         </div>
-                        <button onClick={handleCopy} id='copyButton' className='rounded-xl px-2 py-1 bg-white text-black font-bold'>Copy</button>
+                        <button onClick={handleCopy} id='copyButton' className='rounded-xl px-2 py-1 text-[16px]  text-white bg-black font-bold'>Copy</button>
                     </div>
                 </div>
             </div>
