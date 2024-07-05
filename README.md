@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -143,6 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://limey.io/andrewbaisden"><img src="https://avatars.githubusercontent.com/u/5095486?v=4?s=100" width="100px;" alt="Andrew Baisden"/><br /><sub><b>Andrew Baisden</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=andrewbaisden" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://gregsithole.com"><img src="https://avatars.githubusercontent.com/u/18423188?v=4?s=100" width="100px;" alt="Greg Sithole"/><br /><sub><b>Greg Sithole</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=GregSithole" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://kartikchinda.netlify.app/"><img src="https://avatars.githubusercontent.com/u/78233115?v=4?s=100" width="100px;" alt="Kartik Chinda"/><br /><sub><b>Kartik Chinda</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/issues?q=author%3AKartikChinda" title="Bug reports">🐛</a> <a href="#design-KartikChinda" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://parthmittal.netlify.app/"><img src="https://avatars.githubusercontent.com/u/76661350?v=4?s=100" width="100px;" alt="Parth Mittal"/><br /><sub><b>Parth Mittal</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=mittal-parth" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
