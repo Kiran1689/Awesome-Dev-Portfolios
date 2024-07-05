@@ -511,6 +511,15 @@
         "bug",
         "design"
       ]
+    },
+    {
+      "login": "mittal-parth",
+      "name": "Parth Mittal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76661350?v=4",
+      "profile": "https://parthmittal.netlify.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
