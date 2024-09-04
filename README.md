@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -150,6 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://irungudennisnganga.github.io/irungudennisnganga/"><img src="https://avatars.githubusercontent.com/u/145563902?v=4?s=100" width="100px;" alt="Dennis Irungu"/><br /><sub><b>Dennis Irungu</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=irungudennisnganga" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.alejandrosobko.com"><img src="https://avatars.githubusercontent.com/u/11604761?v=4?s=100" width="100px;" alt="Alejandro Sobko"/><br /><sub><b>Alejandro Sobko</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=alejandrosobko" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://magedfaiz.xyz/"><img src="https://avatars.githubusercontent.com/u/91534137?v=4?s=100" width="100px;" alt="Maged Faiz"/><br /><sub><b>Maged Faiz</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Maiz27" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jamesmumo.vercel.app/"><img src="https://avatars.githubusercontent.com/u/86493008?v=4?s=100" width="100px;" alt="JayMoh"/><br /><sub><b>JayMoh</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=jaycode8" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
