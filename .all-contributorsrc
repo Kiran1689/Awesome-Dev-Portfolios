@@ -574,6 +574,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Oslonline",
+      "name": "Oslo418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148057035?v=4",
+      "profile": "https://oslo418.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
