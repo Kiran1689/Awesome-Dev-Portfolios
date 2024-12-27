@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-63-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -153,6 +153,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://jamesmumo.vercel.app/"><img src="https://avatars.githubusercontent.com/u/86493008?v=4?s=100" width="100px;" alt="JayMoh"/><br /><sub><b>JayMoh</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=jaycode8" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://rafaelsantana.dev/"><img src="https://avatars.githubusercontent.com/u/49356234?v=4?s=100" width="100px;" alt="Rafael Santana"/><br /><sub><b>Rafael Santana</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=rafalmeida73" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://oslo418.com"><img src="https://avatars.githubusercontent.com/u/148057035?v=4?s=100" width="100px;" alt="Oslo418"/><br /><sub><b>Oslo418</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Oslonline" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.chanmeng.live/"><img src="https://avatars.githubusercontent.com/u/150320866?v=4?s=100" width="100px;" alt="Chan Meng"/><br /><sub><b>Chan Meng</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=ChanMeng666" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
