@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-65-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -156,6 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.chanmeng.live/"><img src="https://avatars.githubusercontent.com/u/150320866?v=4?s=100" width="100px;" alt="Chan Meng"/><br /><sub><b>Chan Meng</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=ChanMeng666" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://itheo.tech"><img src="https://avatars.githubusercontent.com/u/493016?v=4?s=100" width="100px;" alt="Theo van der Sluijs"/><br /><sub><b>Theo van der Sluijs</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=tvdsluijs" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
