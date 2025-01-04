@@ -592,6 +592,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "tvdsluijs",
+      "name": "Theo van der Sluijs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/493016?v=4",
+      "profile": "https://itheo.tech",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
