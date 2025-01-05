@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-68-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -159,6 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://itheo.tech"><img src="https://avatars.githubusercontent.com/u/493016?v=4?s=100" width="100px;" alt="Theo van der Sluijs"/><br /><sub><b>Theo van der Sluijs</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=tvdsluijs" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RiteshS1"><img src="https://avatars.githubusercontent.com/u/119002315?v=4?s=100" width="100px;" alt="Ritesh Sharma "/><br /><sub><b>Ritesh Sharma </b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=RiteshS1" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xCarter93"><img src="https://avatars.githubusercontent.com/u/9575204?v=4?s=100" width="100px;" alt="Patrick Carter"/><br /><sub><b>Patrick Carter</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=xCarter93" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mohankumarpaluru"><img src="https://avatars.githubusercontent.com/u/46961568?v=4?s=100" width="100px;" alt="Mohan Kumar Paluru"/><br /><sub><b>Mohan Kumar Paluru</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=mohankumarpaluru" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
