@@ -628,6 +628,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "vishnu1100",
+      "name": "_VISHNU_",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127679210?v=4",
+      "profile": "https://vishnusanthoshportfolio.web.app/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
