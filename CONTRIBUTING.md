@@ -52,7 +52,7 @@
          "livePortfolioLink": "https://Kiran1689.github.io",
          "githubRepoLink": "https://github.com/Kiran1689/Kiran1689.github.io",
          "email": "kirannaragund197@gmail.com",
-         "linkedin": "https://www.linkedin.com/in/kiran-a-n"
+         "linkedin": "https://www.linkedin.com/in/kiran-a-n",
          "instagram": "https://www.instagram.com/kiran_a_n",
          "x": "https://twitter.com/kiran__a__n"
        }
