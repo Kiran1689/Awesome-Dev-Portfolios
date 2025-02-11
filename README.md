@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -161,6 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xCarter93"><img src="https://avatars.githubusercontent.com/u/9575204?v=4?s=100" width="100px;" alt="Patrick Carter"/><br /><sub><b>Patrick Carter</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=xCarter93" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mohankumarpaluru"><img src="https://avatars.githubusercontent.com/u/46961568?v=4?s=100" width="100px;" alt="Mohan Kumar Paluru"/><br /><sub><b>Mohan Kumar Paluru</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=mohankumarpaluru" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://vishnusanthoshportfolio.web.app/"><img src="https://avatars.githubusercontent.com/u/127679210?v=4?s=100" width="100px;" alt="_VISHNU_"/><br /><sub><b>_VISHNU_</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vishnu1100" title="Code">💻</a> <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=vishnu1100" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/adex-hub"><img src="https://avatars.githubusercontent.com/u/68297427?v=4?s=100" width="100px;" alt="Adeola"/><br /><sub><b>Adeola</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=adex-hub" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
