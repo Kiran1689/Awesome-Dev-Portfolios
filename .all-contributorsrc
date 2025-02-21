@@ -647,6 +647,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Rodrigo-Suarez",
+      "name": "Rodrigo_dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174951467?v=4",
+      "profile": "https://v0-portfolio-navy-delta.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
