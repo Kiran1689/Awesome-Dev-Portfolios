@@ -4,7 +4,21 @@ import {
   SiInstagram,
   SiLinkedin,
   SiX,
+  SiWhatsapp,
+  SiFacebook
 } from "react-icons/si";
+
+import { FaLink } from "react-icons/fa6";
+
+import toast, { Toaster } from 'react-hot-toast';
+
+const shareText = "Check out this awesome portfolio!"
+
+const copyToClipboard = (link) => {
+  navigator.clipboard.writeText(link)
+    .then(() => toast.success("Link copied to clipboard!"))
+    .catch(err => toast.error("Failed to copy!"));
+}
 
 const CardModal = ({ card, onClose }) => {
   if (!card) {
@@ -166,6 +180,52 @@ const CardModal = ({ card, onClose }) => {
                   GitHub Repo
                 </a>
               )}
+            </div>
+          </div>
+          {/* Share */}
+          <div className="mb-2">
+            <h3 className="mb-1 text-base font-bold md:text-lg lg:text-xl">
+              Share
+            </h3>
+            <div className="flex">
+              <a
+                  href={`https://twitter.com/intent/tweet?url=${livePortfolioLink}&text=${shareText}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mr-2 text-gray-300"
+                >
+                  <SiX size={25} />
+              </a>
+              <a
+                  href={`https://wa.me/?text=${shareText}%20${livePortfolioLink}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mr-2 text-green-300"
+                >
+                  <SiWhatsapp size={25} />
+              </a>
+              <a
+                  href={`https://www.facebook.com/sharer/sharer.php?u=${livePortfolioLink}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                   className="mr-2 text-gray-300"
+                >
+                  <SiFacebook size={25} />
+              </a>
+              <a
+                  href={`https://www.linkedin.com/sharing/share-offsite/?url=${livePortfolioLink}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                   className="mr-2 text-blue-500"
+                >
+                  <SiLinkedin size={25} />
+              </a>
+              <button
+                  onClick={() => copyToClipboard(livePortfolioLink)}
+                  className="mr-2 text-gray-300"
+                >
+                  <FaLink size={25} />
+              </button>
             </div>
           </div>
         </div>
