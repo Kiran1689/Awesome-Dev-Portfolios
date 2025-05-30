@@ -91,7 +91,7 @@ export const ShareModal = ({link, onClose}) => {
                 <div className="flex items-center justify-between bg-black-100 rounded-md px-4 py-2 text-sm font-mono border border-gray-300">
       <span className="truncate">{link}</span>
       <button
-        onClick={copyToClipboard}
+        onClick={() => copyToClipboard(link)}
         className="ml-4 text-gray-600 hover:text-white transition"
         title="Copy"
       >
