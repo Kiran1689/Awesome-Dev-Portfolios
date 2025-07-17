@@ -665,6 +665,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "walkerrandolphsmith",
+      "name": "Walker Randolph Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1386741?v=4",
+      "profile": "https://walkersmith.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
