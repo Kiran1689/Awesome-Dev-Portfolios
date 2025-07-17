@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-72-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -166,6 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://v0-portfolio-navy-delta.vercel.app/"><img src="https://avatars.githubusercontent.com/u/174951467?v=4?s=100" width="100px;" alt="Rodrigo_dev"/><br /><sub><b>Rodrigo_dev</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Rodrigo-Suarez" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Divyanshu-Mishra9620"><img src="https://avatars.githubusercontent.com/u/143180195?v=4?s=100" width="100px;" alt="Divyanshu@018"/><br /><sub><b>Divyanshu@018</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Divyanshu-Mishra9620" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://walkersmith.me"><img src="https://avatars.githubusercontent.com/u/1386741?v=4?s=100" width="100px;" alt="Walker Randolph Smith"/><br /><sub><b>Walker Randolph Smith</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=walkerrandolphsmith" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
