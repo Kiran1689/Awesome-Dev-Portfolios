@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTopButton from "./components/ScrollToTopButton";
 import SignUp from "./components/SignUp";
+import { Toaster } from "react-hot-toast";
 
 const App = () => {
   const [cards, setCards] = useState([]);
@@ -65,6 +66,7 @@ const App = () => {
             path="/portfolios"
             element={
               <>
+                <Toaster />
                 <Navbar
                   searchTerm={searchTerm}
                   handleSearchChange={(event) =>

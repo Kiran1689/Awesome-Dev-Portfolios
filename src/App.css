@@ -256,7 +256,11 @@ h3 {
   font-size: 20px;
   margin-bottom: 5px;
   font-family: 'Google Sans', sans-serif;
-  text-align: center;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2px;
 }
 
 

@@ -3,7 +3,7 @@ import {
   SiGmail,
   SiInstagram,
   SiLinkedin,
-  SiX,
+  SiX
 } from "react-icons/si";
 
 const CardModal = ({ card, onClose }) => {
