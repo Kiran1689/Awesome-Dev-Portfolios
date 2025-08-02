@@ -1,6 +1,6 @@
-import { UserAuthSignUpForm } from "./user-auth-form-signup";
+import { UserAuthLoginForm } from "./user-auth-form-login";
 
-function SignUp() {
+function Login() {
   return (
     <div className="container relative grid flex-col items-center justify-center min-h-screen lg:max-w-none lg:grid-cols-2 lg:px-0">
       <div className="relative flex-col h-full p-10 text-white dark:border-r lg:flex">
@@ -11,9 +11,9 @@ function SignUp() {
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">
             <p className="text-lg">
-              &ldquo;Hello there! Thanks for visiting this page. Please sign up to add your portfolio and access beautiful features. Thanks&rdquo;
+              &ldquo;Welcome back! Please log in to access your account and continue your journey with us.&rdquo;
             </p>
-            <footer className="text-sm">Kiran Naragund</footer>
+            <footer className="text-sm">Admin</footer>
           </blockquote>
         </div>
       </div>
@@ -22,13 +22,13 @@ function SignUp() {
           <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[350px]">
             <div className="flex flex-col space-y-2 text-center">
               <h1 className="text-2xl font-semibold tracking-tight">
-                Create an account
+                Login to Your Account
               </h1>
               <p className="text-sm text-muted-foreground">
-                Enter your email below to create your account
+                Enter your credentials to access the platform
               </p>
             </div>
-            <UserAuthSignUpForm />
+            <UserAuthLoginForm />
           </div>
         </div>
       </div>
@@ -36,4 +36,4 @@ function SignUp() {
   );
 }
 
-export default SignUp;
+export default Login;
