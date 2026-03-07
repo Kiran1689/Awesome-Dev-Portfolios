@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-75-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-78-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -169,6 +169,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="https://walkersmith.me"><img src="https://avatars.githubusercontent.com/u/1386741?v=4?s=100" width="100px;" alt="Walker Randolph Smith"/><br /><sub><b>Walker Randolph Smith</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=walkerrandolphsmith" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mohitjoer"><img src="https://avatars.githubusercontent.com/u/105838181?v=4?s=100" width="100px;" alt="Mohit Joe . R"/><br /><sub><b>Mohit Joe . R</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=mohitjoer" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://sanajitjana.github.io"><img src="https://avatars.githubusercontent.com/u/76105799?v=4?s=100" width="100px;" alt="Sanajit Jana"/><br /><sub><b>Sanajit Jana</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=sanajitjana" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rubo17"><img src="https://avatars.githubusercontent.com/u/157585299?v=4?s=100" width="100px;" alt="Ruben Cabrerizo"/><br /><sub><b>Ruben Cabrerizo</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=rubo17" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.heinsoe.com"><img src="https://avatars.githubusercontent.com/u/35089574?v=4?s=100" width="100px;" alt="Hein Soe"/><br /><sub><b>Hein Soe</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=hheinsoee" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://hovanhoa.net"><img src="https://avatars.githubusercontent.com/u/56647826?v=4?s=100" width="100px;" alt="hovanhoa"/><br /><sub><b>hovanhoa</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=hovanhoa" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
