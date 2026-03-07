@@ -692,6 +692,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rubo17",
+      "name": "Ruben Cabrerizo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157585299?v=4",
+      "profile": "https://github.com/rubo17",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hheinsoee",
+      "name": "Hein Soe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35089574?v=4",
+      "profile": "https://www.heinsoe.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
