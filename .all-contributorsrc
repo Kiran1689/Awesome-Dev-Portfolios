@@ -728,6 +728,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "emricooo",
+      "name": "Emeric Guyon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190036711?v=4",
+      "profile": "https://emericguyon.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
