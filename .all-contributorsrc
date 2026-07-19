@@ -737,6 +737,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Naresh-Khatri",
+      "name": "Naresh Khatri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32219857?v=4",
+      "profile": "http://nareshkhatri.site",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

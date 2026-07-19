@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-80-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-81-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -176,6 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="http://hovanhoa.net"><img src="https://avatars.githubusercontent.com/u/56647826?v=4?s=100" width="100px;" alt="hovanhoa"/><br /><sub><b>hovanhoa</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=hovanhoa" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/annamalai2912"><img src="https://avatars.githubusercontent.com/u/72070434?v=4?s=100" width="100px;" alt="Annamalai KM"/><br /><sub><b>Annamalai KM</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=annamalai2912" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://emericguyon.com/"><img src="https://avatars.githubusercontent.com/u/190036711?v=4?s=100" width="100px;" alt="Emeric Guyon"/><br /><sub><b>Emeric Guyon</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=emricooo" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://nareshkhatri.site"><img src="https://avatars.githubusercontent.com/u/32219857?v=4?s=100" width="100px;" alt="Naresh Khatri"/><br /><sub><b>Naresh Khatri</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Naresh-Khatri" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
