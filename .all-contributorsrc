@@ -737,6 +737,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "alihamzaio",
+      "name": "ALI HAMZA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172388788?v=4",
+      "profile": "https://alihamza-fawn.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
