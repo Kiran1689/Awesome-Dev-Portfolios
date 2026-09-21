@@ -4,85 +4,148 @@ import "./App.css";
 import Home from "./Home";
 import CardList from "./components/CardList";
 import CardModal from "./components/CardModal";
-import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
-import ScrollToTopButton from "./components/ScrollToTopButton";
 import SignUp from "./components/SignUp";
+import Login from "./components/Login";
+import Admin from "./components/Admin";
+import Searchbar from "./components/Searchbar"; // Import the new component
+import { supabase } from "./supabaseClient";
 
 const App = () => {
+  const [session, setSession] = useState(null);
   const [cards, setCards] = useState([]);
   const [selectedCard, setSelectedCard] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredCards, setFilteredCards] = useState([]);
+  const [isAdmin, setIsAdmin] = useState(false);
+  const [userVote, setUserVote] = useState(null);
+
+  const checkAdmin = (user) => {
+    if (user && user.email === process.env.REACT_APP_ADMIN_EMAIL) {
+      setIsAdmin(true);
+    } else {
+      setIsAdmin(false);
+    }
+  };
+
+  const fetchUserVote = async () => {
+    if (!session) return;
+    const { data, error } = await supabase
+      .from('user_votes')
+      .select('portfolio_id')
+      .eq('user_id', session.user.id)
+      .single();
+    
+    if (data) {
+      setUserVote(data.portfolio_id);
+    } else {
+      setUserVote(null);
+    }
+  };
 
   useEffect(() => {
-    const importAll = (context) => context.keys().map(context);
-    let cardData = importAll(
-      require.context("./profileData", false, /\.json$/)
-    );
-
-    // Sort cards alphabetically by name
-    cardData = cardData.sort((a, b) => {
-      const nameA = a.name.toUpperCase();
-      const nameB = b.name.toUpperCase();
-      return nameA.localeCompare(nameB);
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      setSession(session);
+      checkAdmin(session?.user);
     });
 
-    setCards(cardData);
+    const { data: { subscription } } = supabase.auth.onAuthStateChange(
+      (_event, session) => {
+        setSession(session);
+        checkAdmin(session?.user);
+      }
+    );
+
+    return () => subscription.unsubscribe();
   }, []);
+  
+  const fetchCards = async () => {
+    const { data, error } = await supabase
+      .from("portfolios")
+      .select("*")
+      .order("vote_count", { ascending: false })
+      .order("name", { ascending: true });
 
-  const handleCardClick = (card) => {
-    setSelectedCard(card);
-  };
-
-  const handleCloseModal = () => {
-    setSelectedCard(null);
+    if (error) {
+      console.error("Error fetching cards:", error);
+    } else {
+      setCards(data);
+    }
   };
 
   useEffect(() => {
-    filterCards();
-    // eslint-disable-next-line
-  }, [cards, searchTerm]);
+    fetchCards();
+    if (session) {
+      fetchUserVote();
+    }
+  }, [session]);
 
-  const filterCards = () => {
+  useEffect(() => {
     let filteredData = cards;
-
     if (searchTerm) {
-      filteredData = filteredData.filter((card) =>
+      filteredData = cards.filter((card) =>
         card.name.toLowerCase().includes(searchTerm.toLowerCase())
       );
+    } else {
+        // When search term is empty, use the original sorted list
+        filteredData = cards;
     }
     setFilteredCards(filteredData);
+  }, [cards, searchTerm]);
+
+  const handleVote = async (cardId) => {
+    if (!session) {
+      alert("You must be logged in to vote.");
+      return;
+    }
+
+    const { error } = await supabase.rpc('handle_vote', {
+      portfolio_id_to_vote_for: cardId
+    });
+      
+    if (error) {
+      console.error("Error updating vote count:", error);
+      alert("Failed to cast vote. Please try again.");
+    } else {
+      await fetchCards();
+      await fetchUserVote();
+    }
   };
+  
+  const handleCardClick = (card) => setSelectedCard(card);
+  const handleCloseModal = () => setSelectedCard(null);
 
   return (
     <Router>
-      <div className="app">
+      <Navbar session={session} isAdmin={isAdmin} />
+      <main className="pt-16 lg:pt-[72px]">
         <Routes>
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/login" element={<Login />} />
           <Route path="/" element={<Home />} />
           <Route
             path="/portfolios"
             element={
               <>
-                <Navbar
+                {/* Add the Searchbar to the page */}
+                <Searchbar 
                   searchTerm={searchTerm}
-                  handleSearchChange={(event) =>
-                    setSearchTerm(event.target.value)
-                  }
+                  handleSearchChange={(e) => setSearchTerm(e.target.value)}
                 />
                 <CardList
                   cards={filteredCards}
-                  onCardClick={(card) => handleCardClick(card)}
+                  onCardClick={handleCardClick}
+                  onVote={handleVote}
+                  session={session}
+                  userVote={userVote}
                 />
                 <CardModal card={selectedCard} onClose={handleCloseModal} />
-                <ScrollToTopButton />
-                <Footer />
               </>
             }
           />
+          <Route path="/admin" element={isAdmin ? <Admin /> : <Login />} />
         </Routes>
-      </div>
+      </main>
     </Router>
   );
 };
