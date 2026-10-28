@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -178,6 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <td align="center" valign="top" width="14.28%"><a href="http://nareshkhatri.site"><img src="https://avatars.githubusercontent.com/u/32219857?v=4?s=100" width="100px;" alt="Naresh Khatri"/><br /><sub><b>Naresh Khatri</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Naresh-Khatri" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://alihamza-fawn.vercel.app/"><img src="https://avatars.githubusercontent.com/u/172388788?v=4?s=100" width="100px;" alt="ALI HAMZA"/><br /><sub><b>ALI HAMZA</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=alihamzaio" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://aitezaz.xyz"><img src="https://avatars.githubusercontent.com/u/149519533?v=4?s=100" width="100px;" alt="Aitezaz Sikandar"/><br /><sub><b>Aitezaz Sikandar</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=aitezazdev" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://mhabir.dev"><img src="https://avatars.githubusercontent.com/u/24823790?v=4?s=100" width="100px;" alt="Mehedi Hasan Abir"/><br /><sub><b>Mehedi Hasan Abir</b></sub></a><br /><a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios/commits?author=Mehedi-Hasan-Abir" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
