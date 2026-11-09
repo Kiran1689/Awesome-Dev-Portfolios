@@ -39,6 +39,7 @@ Feel free to browse through the showcased portfolios for inspiration.
 All contributions are welcome. Every contribution counts.
 
 ### 1. Adding Your Portfolio:💻
+- [Yorben Vandersleyen](https://yorben.me/#needle) - High-polish indie portfolio highlighting native macOS audio companion Needle.
 For Adding your Portfolio please follow the guidelines in the [CONTRIBUTING](./CONTRIBUTING.md) file.
 
 ### 2. Bug Reports:🐛
